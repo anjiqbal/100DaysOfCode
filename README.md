@@ -25,3 +25,27 @@ I feel incredibly privileged to be a part of cohort 14 with The School of Code. 
 
 https://github.com/anjiqbal/codewars/blob/main/lvl6/count-smiley-face.js
 
+## Day 14 of 100 Days Of Code
+## Day 02 School of Code Bootcamp
+
+
+_14th March_
+
+### Today's progress:
+
+- I learnt more about computational thinking - decomposition, pattern recognition, abstraction and algorithms.
+- I worked on a login and more or less game with my pair programming partner in scratch. 
+- I applied the concepts we learnt and a more systematic approach to my codewars challenge in the evening. 
+
+### Thoughts:
+
+#### 100 days of code
+The more rigorous, systematic way of breaking down the codewars problem was really useful. I struggled at first but once I began, it became easier. The pseudocode I ended up writing was really helpful when I eventually went to code the solution.
+
+#### School of Code
+I'm enjoying working with my partner for the week, Bernard Molyneux. The process of sharing ideas and articulating my thoughts has already been incredibly valuable to me and I feel myself gaining confidence. 
+The approach to problem solving and making sure you really understand what it is that you are trying to solve is surprisingly challenging but is obviously very neccessary. I realise now that while I thought I had a systematic approach to finding solutions, actually I was still rushing in to code
+
+### Links to work / resources:
+
+https://github.com/anjiqbal/codewars/blob/main/lvl6/consecutive-strings.js
