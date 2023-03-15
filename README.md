@@ -49,3 +49,23 @@ The approach to problem solving and making sure you really understand what it is
 ### Links to work / resources:
 
 https://github.com/anjiqbal/codewars/blob/main/lvl6/consecutive-strings.js
+
+## Day 14 of 100 Days Of Code
+## Day 02 School of Code Bootcamp
+
+_15th March_
+
+### Today's progress:
+
+- Started learning JavaScript with SoC today. As I have covered these topics in my personal learning prior to the bootcamp, it served as useful refresher. 
+- I got more familiar with Git and GitHub today. 
+- Working as part of a team is getting easier, still some technical challenges to overcome, mainly related to GitHub
+
+### Thoughts:
+
+Covered variables, loops and functions today with SoC which was a good reminder of the foundations. I found talking a team member through a workshop activity especially useful as it made me slow down, really think about what was required and then articulate that in a way that was understandable.
+Today's Codewars challenge was something I had come across before so I was able to apply that previous knowledge to today's problem.
+
+
+### Links to work / resources:
+https://github.com/anjiqbal/codewars/blob/main/lvl6/count-char-in-str.js
