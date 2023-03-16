@@ -89,7 +89,8 @@ Today's codewars kata was on the topic of manipulating a number using array meth
 My first approach did not work as expected as I used the array method map() which was not skipping over the zeroes as I expected but instead 
 returning undefined. I then used to filter() to remove the zeroes but this also presented a probelem as the index was important because of place value.
 
-[]("https://github.com/anjiqbal/100DaysOfCode/blob/main/images/16.3.2023.2CW.png")
+[]("")
+<img src="https://github.com/anjiqbal/100DaysOfCode/blob/main/images/16.3.2023.2CW.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
 
 I then realised I was over thinking this problem and realised I could use a simple forEach to skip over the zeroes and push the manipulated number to another array
 
@@ -97,4 +98,5 @@ I then realised I was over thinking this problem and realised I could use a simp
 
 
 ### Links to work / resources:
+https://github.com/anjiqbal/codewars/blob/main/lvl6/num-in-expanded-form.js
 
