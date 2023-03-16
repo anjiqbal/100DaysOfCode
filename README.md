@@ -89,11 +89,11 @@ Today's codewars kata was on the topic of manipulating a number using array meth
 My first approach did not work as expected as I used the array method map() which was not skipping over the zeroes as I expected but instead 
 returning undefined. I then used to filter() to remove the zeroes but this also presented a probelem as the index was important because of place value.
 
-[]("C:\Users\spud1\Documents\school-of-code\100DaysOfCode\images\16.3.2023.2CW.png")
+[]("https://github.com/anjiqbal/100DaysOfCode/blob/main/images/16.3.2023.2CW.png")
 
 I then realised I was over thinking this problem and realised I could use a simple forEach to skip over the zeroes and push the manipulated number to another array
 
-[]("C:\Users\spud1\Documents\school-of-code\100DaysOfCode\images\16.3.2023.1CW.png"")
+[]("https://github.com/anjiqbal/100DaysOfCode/blob/main/images/16.3.2023.1CW.png")
 
 
 ### Links to work / resources:
