@@ -50,8 +50,8 @@ The approach to problem solving and making sure you really understand what it is
 
 https://github.com/anjiqbal/codewars/blob/main/lvl6/consecutive-strings.js
 
-## Day 14 of 100 Days Of Code
-## Day 02 School of Code Bootcamp
+## Day 15 of 100 Days Of Code
+## Day 03 School of Code Bootcamp
 
 _15th March_
 
@@ -69,3 +69,32 @@ Today's Codewars challenge was something I had come across before so I was able 
 
 ### Links to work / resources:
 https://github.com/anjiqbal/codewars/blob/main/lvl6/count-char-in-str.js
+
+## Day 16 of 100 Days Of Code
+## Day 04 School of Code Bootcamp
+
+_16th March_
+
+### Today's progress:
+
+- Revised objects, creating objects and accessing properties using dot notation and square brackets
+- Revised arrays, creating arrays, nested arrays, arrays of objects and looping over arrays 
+- Used git and github to successfully share files with my partner and worl collaboratively to complete the tasks assigned in the workshop. We has some time leftover so we played around with some array methods
+
+### Thoughts:
+
+SoC morning session covered the importance of giving and receiving feedback and how valubable it is for growth. I found this session interesting as it made me think about how I give feedback and reminded me that the goal is not to expect someone to change. It also reminded me that receiving feedback is an opportunity for growth.
+
+Today's codewars kata was on the topic of manipulating a number using array methods to expand it e.g. 306 -> '300 + 6'
+My first approach did not work as expected as I used the array method map() which was not skipping over the zeroes as I expected but instead 
+returning undefined. I then used to filter() to remove the zeroes but this also presented a probelem as the index was important because of place value.
+
+[]("C:\Users\spud1\Pictures\Pictures\code\2023-03-16T08_24_05.png")
+
+I then realised I was over thinking this problem and realised I could use a simple forEach to skip over the zeroes and push the manipulated number to another array
+
+[]("C:\Users\spud1\Pictures\Pictures\code\16.3.2023.CW.png"")
+
+
+### Links to work / resources:
+
