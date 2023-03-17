@@ -1,10 +1,10 @@
 # 100 Days Of Code / School of Code Bootcamp 14.0 Diary
 
 ## Day 13 of 100 Days Of Code
-## Day 01 School of Code Bootcamp
+## Week 1 School of Code Bootcamp
 
 
-_13th March_
+_Monday 13th March_
 
 ### Today's progress:
 
@@ -26,10 +26,10 @@ I feel incredibly privileged to be a part of cohort 14 with The School of Code. 
 https://github.com/anjiqbal/codewars/blob/main/lvl6/count-smiley-face.js
 
 ## Day 14 of 100 Days Of Code
-## Day 02 School of Code Bootcamp
+## Week 1 School of Code Bootcamp
 
 
-_14th March_
+_Tuesday 14th March_
 
 ### Today's progress:
 
@@ -51,9 +51,9 @@ The approach to problem solving and making sure you really understand what it is
 https://github.com/anjiqbal/codewars/blob/main/lvl6/consecutive-strings.js
 
 ## Day 15 of 100 Days Of Code
-## Day 03 School of Code Bootcamp
+## Week 1 School of Code Bootcamp
 
-_15th March_
+_Wednesday 15th March_
 
 ### Today's progress:
 
@@ -71,9 +71,9 @@ Today's Codewars challenge was something I had come across before so I was able 
 https://github.com/anjiqbal/codewars/blob/main/lvl6/count-char-in-str.js
 
 ## Day 16 of 100 Days Of Code
-## Day 04 School of Code Bootcamp
+## Week 1 School of Code Bootcamp
 
-_16th March_
+_Thursday 16th March_
 
 ### Today's progress:
 
@@ -99,3 +99,22 @@ I then realised I was over thinking this problem and realised I could use a simp
 ### Links to work / resources:
 https://github.com/anjiqbal/codewars/blob/main/lvl6/num-in-expanded-form.js
 
+## Day 17 of 100 Days Of Code
+## Week 1 School of Code Bootcamp
+
+_Friday 17th March_
+
+### Today's progress:
+
+- I learnt about clean coding from my mentor - code should read like a story and be understandable for others. I also learnt about 'failing first' which is a way of adding test conditions in your function that eliminate pointless running of code.
+- Participated in a hackathon wher we mob programmed (three of us) a game of rock, paper scissors.
+- We presented our project and code to other teams and talked them through our thinking and steps.
+
+### Thoughts:
+
+Today's mentor meeting was incredibly informative. I learnt a lot about how to go about breaking problems down and making plans, and what that means in a practical sense. It means that other people can read your code and undrestand what it is that you are doing and what it is that you are trying to do. This is especially important within teams where people can move from project to project multiple times - even in one day.
+
+The hackathon involved creating a game of rock paper scissors. We managed to complete most of it. The key lesson I learnt was on collaborating with others and working together throught making a plan, pair programming and sharing via GitHub.
+
+### Links to work / resources:
+https://github.com/anjiqbal/codewars/blob/main/lvl6/two-sum.js
