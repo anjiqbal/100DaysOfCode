@@ -1,7 +1,7 @@
 # 100 Days Of Code / School of Code Bootcamp 14.0 Diary
 
 ## Day 13 of 100 Days Of Code
-## Week 1 School of Code Bootcamp
+## Week 1 - School of Code Bootcamp
 
 
 _Monday 13th March_
@@ -26,7 +26,7 @@ I feel incredibly privileged to be a part of cohort 14 with The School of Code. 
 https://github.com/anjiqbal/codewars/blob/main/lvl6/count-smiley-face.js
 
 ## Day 14 of 100 Days Of Code
-## Week 1 School of Code Bootcamp
+## Week 1 - School of Code Bootcamp
 
 
 _Tuesday 14th March_
@@ -51,7 +51,7 @@ The approach to problem solving and making sure you really understand what it is
 https://github.com/anjiqbal/codewars/blob/main/lvl6/consecutive-strings.js
 
 ## Day 15 of 100 Days Of Code
-## Week 1 School of Code Bootcamp
+## Week 1 - School of Code Bootcamp
 
 _Wednesday 15th March_
 
@@ -71,7 +71,7 @@ Today's Codewars challenge was something I had come across before so I was able 
 https://github.com/anjiqbal/codewars/blob/main/lvl6/count-char-in-str.js
 
 ## Day 16 of 100 Days Of Code
-## Week 1 School of Code Bootcamp
+## Week 1 - School of Code Bootcamp
 
 _Thursday 16th March_
 
@@ -100,14 +100,14 @@ I then realised I was over thinking this problem and realised I could use a simp
 https://github.com/anjiqbal/codewars/blob/main/lvl6/num-in-expanded-form.js
 
 ## Day 17 of 100 Days Of Code
-## Week 1 School of Code Bootcamp
+## Week 1 - School of Code Bootcamp
 
 _Friday 17th March_
 
 ### Today's progress:
 
 - I learnt about clean coding from my mentor - code should read like a story and be understandable for others. I also learnt about 'failing first' which is a way of adding test conditions in your function that eliminate pointless running of code.
-- Participated in a hackathon wher we mob programmed (three of us) a game of rock, paper scissors.
+- Participated in a hackathon where we pair programmed a game of rock, paper scissors.
 - We presented our project and code to other teams and talked them through our thinking and steps.
 
 ### Thoughts:
@@ -118,3 +118,23 @@ The hackathon involved creating a game of rock paper scissors. We managed to com
 
 ### Links to work / resources:
 https://github.com/anjiqbal/codewars/blob/main/lvl6/two-sum.js
+
+## Day 18 of 100 Days Of Code
+
+_Saturday 18th March_
+
+### Today's progress:
+
+- Applied what I learnt about problem solving over the past week to solve a level 5 Codewars kata. 
+- Did some reading around ChatGPT and the best way to use this tool.
+- Forked project hackathon repo and refactored the code
+
+### Thoughts:
+
+As I had more time today I decided to attempt a level 5 kata and appproach it in the way that SoC have taught over the past week. I made a thorough plan and broke each section down. When unsure I put in what I thought a possible appraoch may be. I found that breaking everything down in such detail made the parts I understood far more straightforward to code. With the parts that I didn't understand, it was easy to see what I needed to search for.
+
+I also worked on refactoring the code from the hackathon yesterday. A really useful task as I looked for patterns and was able to tidy up the code. I made sure each action was done by one function and created a function that controlled the game.
+
+
+### Links to work / resources:
+https://feixie1980.medium.com/array-combination-iteration-with-javascript-generator-function-f4718aec1ca0
