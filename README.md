@@ -157,12 +157,14 @@ _Sunday 19th March_
 
 Today's codewars challenge was straight forward. I still made a plan and noticed that I picked up on potential mistakes I would have made while coding.
 
-<img src="" />
+<img src="https://github.com/anjiqbal/100DaysOfCode/blob/main/images/mexican-wave1.svg" />
 
 I then spent some time looking at the code to see if I could improve it. I realised that I did not need the if statement. I removed it and the code was still functioning as it should.
 
-<img src="" />
+<img src="https://github.com/anjiqbal/100DaysOfCode/blob/main/images/wave2.svg" />
 
 I learnt that chatGPT is an incredibly powerful tool but can also be dangerous for learners and early career level developers. It can be useful to generate questions to practice your skills and check syntax etc. Doing more complicated actions with it can be risky if you do not have the understanding and experience of your programming language at a deeper level.
 
 ### Links to work / resources:
+https://github.com/anjiqbal/codewars/blob/main/lvl6/mexican-wave.js
+https://www.youtube.com/watch?v=BRELYfngZSk
