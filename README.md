@@ -166,5 +166,5 @@ I then spent some time looking at the code to see if I could improve it. I reali
 I learnt that chatGPT is an incredibly powerful tool but can also be dangerous for learners and early career level developers. It can be useful to generate questions to practice your skills and check syntax etc. Doing more complicated actions with it can be risky if you do not have the understanding and experience of your programming language at a deeper level.
 
 ### Links to work / resources:
-https://github.com/anjiqbal/codewars/blob/main/lvl6/mexican-wave.js
+https://github.com/anjiqbal/codewars/blob/main/lvl6/mexican-wave.js \n
 https://www.youtube.com/watch?v=BRELYfngZSk
