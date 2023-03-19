@@ -138,3 +138,28 @@ I also worked on refactoring the code from the hackathon yesterday. A really use
 
 ### Links to work / resources:
 https://feixie1980.medium.com/array-combination-iteration-with-javascript-generator-function-f4718aec1ca0
+
+
+## Day 19 of 100 Days Of Code
+
+_Sunday 19th March_
+
+### Today's progress:
+
+- Completed codewars challenge on strings and arrays
+- Spent some time reviewing array and string methods
+- Did some reading and watched a video om chatGPT and the best way to use it as a tool
+
+### Thoughts:
+
+Today's codewars challenge was straight forward. I still made a plan and noticed that I picked up on potential mistakes I would have made while coding.
+
+<img src="" />
+
+I then spent some time looking at the code to see if I could improve it. I realised that I did not need the if statement. I removed it and the code was still functioning as it should.
+
+<img src="" />
+
+I learnt that chatGPT is an incredibly powerful tool but can also be dangerous for learners and early career level developers. It can be useful to generate questions to practice your skills and check syntax etc. Doing more complicated actions with it can be risky if you do not have the understanding and experience of your programming language at a deeper level.
+
+### Links to work / resources:
