@@ -133,11 +133,14 @@ _Saturday 18th March_
 
 As I had more time today I decided to attempt a level 5 kata and appproach it in the way that SoC have taught over the past week. I made a thorough plan and broke each section down. When unsure I put in what I thought a possible appraoch may be. I found that breaking everything down in such detail made the parts I understood far more straightforward to code. With the parts that I didn't understand, it was easy to see what I needed to search for.
 
+<img src='https://github.com/anjiqbal/100DaysOfCode/blob/main/images/18-3-2023-plan.svg' />
+
 I also worked on refactoring the code from the hackathon yesterday. A really useful task as I looked for patterns and was able to tidy up the code. I made sure each action was done by one function and created a function that controlled the game.
 
 
 ### Links to work / resources:
 https://feixie1980.medium.com/array-combination-iteration-with-javascript-generator-function-f4718aec1ca0
+https://github.com/anjiqbal/codewars/blob/main/lvl5/best-travel.js
 
 
 ## Day 19 of 100 Days Of Code
