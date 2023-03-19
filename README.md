@@ -167,4 +167,5 @@ I learnt that chatGPT is an incredibly powerful tool but can also be dangerous f
 
 ### Links to work / resources:
 https://github.com/anjiqbal/codewars/blob/main/lvl6/mexican-wave.js
+
 https://www.youtube.com/watch?v=BRELYfngZSk
