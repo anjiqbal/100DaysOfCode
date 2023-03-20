@@ -169,3 +169,33 @@ I learnt that chatGPT is an incredibly powerful tool but can also be dangerous f
 https://github.com/anjiqbal/codewars/blob/main/lvl6/mexican-wave.js
 
 https://www.youtube.com/watch?v=BRELYfngZSk
+
+
+## Day 20 of 100 Days Of Code
+## Week 2 - School of Code Bootcamp
+
+_Monday 20th March_
+
+### Today's progress:
+
+- Today I learnt that the DOM (Document Object Model) takes our static HTML and makes it into an object that we can manipulate.
+- I learnt how to select elements, how to manipulate the text content of selected elements, how to append elements to the DOM, how to loop through a NodeList and how to remove elements.
+- I did some background reading to further understand the DOM and how to manipulate it.
+
+### Thoughts:
+
+We covered a lot today regarding the DOM and how to manipulate it. I found it incredibly useful to be able to work through the assigned tasks in a group as we could discuss and plan together and then tackle the tasks. I found it useful to research how to use certain methods, for example removeChild.
+
+Today's codewars challenge was regarding manipulating strings. Part of the challenge was to leave certain words lowercase. These words were passed in as a string as the second argument. However this argument was optional. Initilaly, when this second argument was not passed, I was getting errrors. I realised that I could overcome these errors by setting the default value of that parameter as an empty string instead of using if statements to check.
+ ```
+ function titleCase(title, minorWords = '')
+ 
+ ```
+
+
+### Links to work / resources:
+https://javascript.info/document
+
+https://github.com/SchoolOfCode/bc14_w2d1_workshop_dom-102-anjiqbal
+
+https://github.com/anjiqbal/codewars/blob/main/lvl6/title-case.js
