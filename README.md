@@ -199,3 +199,26 @@ https://javascript.info/document
 https://github.com/SchoolOfCode/bc14_w2d1_workshop_dom-102-anjiqbal
 
 https://github.com/anjiqbal/codewars/blob/main/lvl6/title-case.js
+
+## Day 21 of 100 Days Of Code
+## Week 2 - School of Code Bootcamp
+
+_Tuesday 21th March_
+
+### Today's progress:
+
+- I learned about events in JavaScript and the event object and some of its properties and values
+- I learned about event listeners and the different types of events they can be called on
+- I learned about how to incorporate AI tools such as ChatGPT and GitHub Copilot into my learning - to use them but ensure that we understand exactly what the code is doing
+
+### Thoughts:
+
+Before bootcamp started today, I completed a codewars challenge adding a new method to the String prototype. I also watched a video on writing clean, concise code by Christopher Miller.
+
+In our teams we worked on adding event listeners to a site to carry out actions on various events such as click, mouse enter or keyup. I also explored the event object in the console and was able to use some of what I discovered to perform different actions.
+
+I also learned about AI tools and how powerful they can be but also how we should carefully approach the code that is written for us. We asked ChatGPT to generate the HTML, JavaScript, and CSS code for a basic rock, paper, scissors game. I found that there were errors in the code that needed debugging, however the very basic game did eventually work. I refactored the code to remove the onclick event listener from the HTML and instead added event listeners to the JavaScript file. I found the more precise I was in my language with Github Copilot the more useful the code was for my intended purpose.
+
+
+### Links to work / resources:
+https://www.youtube.com/watch?v=eLLHYBoUTNg&list=PLM5niutPsMUvsAP61ZaAUQ3lTf93pdvWM
