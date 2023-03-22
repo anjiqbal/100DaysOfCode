@@ -222,3 +222,28 @@ I also learned about AI tools and how powerful they can be but also how we shoul
 
 ### Links to work / resources:
 https://www.youtube.com/watch?v=eLLHYBoUTNg&list=PLM5niutPsMUvsAP61ZaAUQ3lTf93pdvWM
+
+
+## Day 22 of 100 Days Of Code
+## Week 2 - School of Code Bootcamp
+
+_Wednesday 22th March_
+
+### Today's progress:
+
+- I learnt about asynchronous and synchronous JavaScript and the async methods setTimeout() and setInterval as well as the event loop.
+- I learnt about API's and how to use the fetch method to send a GET request.
+- I applied everything I learnt to send a GET request to cat fact API. I used event listeners to make the page dynamic. 
+
+### Thoughts:
+
+Codewars had me stumped for a while this morning but I realised after putting some console logs that my map method was resetting my count to 1 each time it was running despite me thinking it was being updated.
+
+JavaScript is single-threaded but asynchronous functions allow it to behave like it is multi-threaded and non-blocking.  The event loop organises the order in which code is executed. 
+
+API's can be accessed using the fetch method. Fetch is asynchronous and returns a promise. We need to wait for the promise to resolve or reject before we can do anything with it. Using the async keyword before the function and then await within the function allows us to wait for the promise to resolve withoult blocking the rest of the code.
+
+### Links to work / resources:
+https://github.com/anjiqbal/codewars/blob/main/lvl6/multiplication-table.js
+
+https://www.youtube.com/watch?v=8aGhZQkoFbQ
