@@ -247,3 +247,24 @@ API's can be accessed using the fetch method. Fetch is asynchronous and returns 
 https://github.com/anjiqbal/codewars/blob/main/lvl6/multiplication-table.js
 
 https://www.youtube.com/watch?v=8aGhZQkoFbQ
+
+
+## Day 23 of 100 Days Of Code
+## Week 2 - School of Code Bootcamp
+
+_Thursday 23th March_
+
+### Today's progress:
+
+- Did some research on Chrome's dev tools and came together and presented what we discovered to everyone.
+- Learnt about UI/UX principles - the most important takeaway being "Don't make users think"
+- Used destructuring assignment and object methods to solve a coding challenge.
+
+### Thoughts:
+
+After solving a codewars challenge on my own this morning, I was also able to spend some time solving some problems together in our team. It's a useful way of troubleshooting and I find thinking out loud with others is helping me to cement ideas and language into my understanding.
+
+Also spent some time planning out an app that will allow users to practice times tables. I managed to code a basic structure and will add to it over the coming few days. 
+
+### Links to work / resources:
+https://github.com/anjiqbal/codewars/blob/main/lvl6/help-the-bookseller.js
