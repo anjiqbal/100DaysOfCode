@@ -268,3 +268,23 @@ Also spent some time planning out an app that will allow users to practice times
 
 ### Links to work / resources:
 https://github.com/anjiqbal/codewars/blob/main/lvl6/help-the-bookseller.js
+
+
+## Day 24 of 100 Days Of Code
+## Week 2 - School of Code Bootcamp
+
+_Friday 24th March_
+
+### Today's progress:
+
+- Researched APIs as a team, chose one and made a plan for what to build.
+- Used the fetch method as well as async and await to get data from the API and ectracted what we needed.
+- Built a simple web app that takes user input and responds with data from the API.
+
+### Thoughts:
+
+Today was hackathon day. We were tasked to explore a few APIs, select one and create an app. We spent a decent amount of time ensuring that we had the foundations of an app that we could then build further features on, time permitting. We decided to go with a dad joke API and to set the page up as a text based conversation. Ultimately, we found that the JavaScript was mostly straightforward, it was the CSS that caused us problems. 
+
+We struggled at first to align the elements as if it was a conversation. We were mostly able to overcome this by lots of research and working together. It made me realise that I could definitely do with some more CSS practice.
+
+### Links to work / resources:
