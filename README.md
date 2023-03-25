@@ -288,3 +288,26 @@ Today was hackathon day. We were tasked to explore a few APIs, select one and cr
 We struggled at first to align the elements as if it was a conversation. We were mostly able to overcome this by lots of research and working together. It made me realise that I could definitely do with some more CSS practice.
 
 ### Links to work / resources:
+https://github.com/anjiqbal/codewars/blob/main/lvl6/data-reverse.js
+
+## Day 25 of 100 Days Of Code
+
+_Saturday 25th March_
+
+### Today's progress:
+
+- Completed codewars challenge on the topic of arrays and adding methods to the prototype
+- Revised all the content covered so far by SoC
+- Read around the topic of UI/UX in preparation for next week
+
+### Thoughts:
+
+Today was a busy day so I didnt't manage to get as much coding done as I would have liked. 
+
+I completed a codewars challenge that involved adding methods to the Array prototype. Allowed me to get some more understanding of the this keyword.
+
+I spent some time revising all the topics covered so far by SoC - objects, arrays, DOM manipulation, APIs, async/sync functions and event listeners.
+
+### Links to work / resources:
+
+https://github.com/anjiqbal/codewars/blob/main/lvl6/array-helpers.js
