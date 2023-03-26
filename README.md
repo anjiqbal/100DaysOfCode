@@ -311,3 +311,25 @@ I spent some time revising all the topics covered so far by SoC - objects, array
 ### Links to work / resources:
 
 https://github.com/anjiqbal/codewars/blob/main/lvl6/array-helpers.js
+
+## Day 26 of 100 Days Of Code
+
+_Sunday 26th March_
+
+### Today's progress:
+
+- Completed codewars challenge on the topic of objects, getters and setters
+- Spent some time creating a simple cat image app using an API with event listeners
+- Created a simple to-do list app that takes in a task and a number and displays tasks by priorities
+
+### Thoughts:
+
+Today's codewars challenge was involved creating a function that returned an object with getter and setter methods. I couldn't get it to work at first but I realised quickly that the error was in the setter method where I wasn't assigning the argument to the variable.
+
+I enjoyed completing the homework tasks today. The to-do list was the most challenging. Organising the tasks by priority was tricky at first. I needed to remove the list as it was on the page. I found this was done by setting the innerHTML property to an empty string. The next task was to sort the items by priority. I used the sort method to sort the array by lowest to highest priority. I then looped over the array of items and reused a function to add the list items by priority.
+
+Given more time, I plan on adding styles as well as some more functionality. I would like to add the ability to remove items and sort the priorities as a new item is added.
+
+### Links to work / resources:
+
+https://github.com/anjiqbal/codewars/blob/main/lvl6/can-you-keep-a-secret.js
