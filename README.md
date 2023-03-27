@@ -333,3 +333,27 @@ Given more time, I plan on adding styles as well as some more functionality. I w
 ### Links to work / resources:
 
 https://github.com/anjiqbal/codewars/blob/main/lvl6/can-you-keep-a-secret.js
+
+## Day 27 of 100 Days Of Code
+## Week 3 - School of Code Bootcamp
+
+_Monday 27th March_
+
+### Today's progress:
+
+- I learnt more about the benefits of developing software with an agile methodology
+- I learnt a little about what a site reliability engineer (SRE) does from Dave Adams. 
+- I spent some time on CSSGrid and Flexbox, and added further functionality to rock/paper/scissors game.
+
+### Thoughts:
+
+I learnt more about the agile methodology, it's core values and a little of the history and how it first came about. I did some further reseearch on the Atlassian website. I think fundamentally it is a process that involves understanding, collaborating, learning and staying flexible and gives you the ability to deliver value to customers far quicker.
+
+I spent some time working on a previous project - rps game. I added further functionality to it by allowing the user to pick 3/5/7 games, the winner being the one who wins the most. I applied what I learnt today on CSSGrid and Flexbox to the styling of the game. 
+
+### Links to work / resources:
+https://github.com/anjiqbal/codewars/blob/main/lvl6/number-raised-eureka.js
+
+https://sre.google/sre-book/table-of-contents/
+
+https://atlassian.com/agile 
