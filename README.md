@@ -357,3 +357,25 @@ https://github.com/anjiqbal/codewars/blob/main/lvl6/number-raised-eureka.js
 https://sre.google/sre-book/table-of-contents/
 
 https://atlassian.com/agile 
+
+
+## Day 28 of 100 Days Of Code
+## Week 3 - School of Code Bootcamp
+
+_Tuesday 28th March_
+
+### Today's progress:
+
+- Spent a lot of time today looking at UX - user experience. More specifically the five stages of design.
+- Spent more time working on RPS game - added score tracker and worked on CSS
+- Challenging Codewars kata today, involving taking in a string of names and returning a string sorted alphabetically and in a specific format.
+
+### Thoughts:
+
+Not much coding today with SoC as we covered UX and the design process. I found it interesting how it is also a very iterative process similar to the agile methodology. I learnt a lot about how design should be user centered but of course keeping business needs in mind.
+
+My Codewars challenge today was really fun as it really stretched my understanding of the sort method for arrays. I also used destructured assignment to split out the names in the string. I had to play around with the sort method and what it returned in order to get the correct sorting of names. I then refactored the code and split some of the things into separate functions.
+
+
+### Links to work / resources:
+https://github.com/anjiqbal/codewars/blob/main/lvl6/meeting.js
