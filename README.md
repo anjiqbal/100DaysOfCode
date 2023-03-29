@@ -379,3 +379,28 @@ My Codewars challenge today was really fun as it really stretched my understandi
 
 ### Links to work / resources:
 https://github.com/anjiqbal/codewars/blob/main/lvl6/meeting.js
+
+
+
+## Day 29 of 100 Days Of Code
+## Week 3 - School of Code Bootcamp
+
+_Wednesday 29th March_
+
+### Today's progress:
+
+- Focus on UI - accessibility, lighthouse audits ac colour theory were just some of the topics we covered
+- I learnt how to make a wireframe using Figma and why wireframes are necessary
+- I learnt more about CSS, specifically the way our CSS should be organised
+
+### Thoughts:
+
+I found the discussions around accessiblity very interesting today. The lighthouse audit is a very useful tool to not only see how your webiste performs but alos how accessible it is. 
+
+I need to spend more time on Figma and practice how to build a wireframe. I feel it will be a really useful tool to help me build my own projects.
+
+I had a lot of fun attempting to build a BBC clone today in HTML and CSS. I didn't have as much time as I would have like so will be coming back to it on the weekend hopefully. It was a really useful exercise as it helped me to put in to practice what I learnt about Flexbox and CSSGrid.
+
+
+### Links to work / resources:
+https://github.com/anjiqbal/codewars/blob/main/lvl7/sum-of-2-pos-integers.js
