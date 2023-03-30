@@ -404,3 +404,26 @@ I had a lot of fun attempting to build a BBC clone today in HTML and CSS. I didn
 
 ### Links to work / resources:
 https://github.com/anjiqbal/codewars/blob/main/lvl7/sum-of-2-pos-integers.js
+
+
+## Day 23 of 100 Days Of Code
+## Week 3 - School of Code Bootcamp
+
+_Thursday 30th March_
+
+### Today's progress:
+
+- Great mindset talk today on the dangers of positional thinking and the values of deep listening - all vital skills to be able to work successfully in a team.
+- Lots of research on accessibility and what that means for design
+- Spent time after SoC working on clone project from yesterday as well as codewars
+
+### Thoughts:
+
+Accessibility is such a large topic with so many tools and tips out there to ensure we incorporate it into our design that we should never leave it as an afterthought. Presenting what we found in our research is a really useful task as it allows you to distill what you have learnt into a short succinct summary so that your team can quickly understand what you discovered.
+
+I spent some time once School of Code was over continuing to work on my BBC clone site. It's been really useful in building up my CSS skills. Still a long way to go but definitely feel I understand CSSGrid a lot better.
+
+Also spent some time doing some codewars challenge - some as pair programming and some in my own time. The level 6 kata was quite tricky but I feel I am getting a better understanding of objects and array methods and how I can combine them to solve a problem.
+
+### Links to work / resources:
+https://github.com/anjiqbal/codewars/blob/main/lvl6/highest-rank-number-in-array.js
