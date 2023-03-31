@@ -406,7 +406,7 @@ I had a lot of fun attempting to build a BBC clone today in HTML and CSS. I didn
 https://github.com/anjiqbal/codewars/blob/main/lvl7/sum-of-2-pos-integers.js
 
 
-## Day 23 of 100 Days Of Code
+## Day 30 of 100 Days Of Code
 ## Week 3 - School of Code Bootcamp
 
 _Thursday 30th March_
@@ -427,3 +427,21 @@ Also spent some time doing some codewars challenge - some as pair programming an
 
 ### Links to work / resources:
 https://github.com/anjiqbal/codewars/blob/main/lvl6/highest-rank-number-in-array.js
+
+## Day 31 of 100 Days Of Code
+## Week 3 - School of Code Bootcamp
+
+_Friday 31st March_
+
+### Today's progress:
+
+- Combined everything we learnt over the past week on UI/UX principles
+- Built up figma and wireframing skills by creating a landing page
+- Built a landing page for our fictional School of Cooking bootcamp, keeping accessibility and the user in mind at all times.
+
+### Thoughts:
+
+Today's challenge for the hackathon was to apply all we had learnt over the week to build a landing page for our bootcamp. This involved going over our user personas and stories, working through our user journey flow diagram and then creating a wireframe that would keep our user at the forefront of our desiggn. We then went on to create a plan for our HTML and CSS. The rest of our day was spent working on our landing page through pair-programming. We were able to work really well together and got a lot done. We didn't manage to complete the HTML and CSS for our design but I am hoping to do that over the weekend. 
+
+### Links to work / resources:
+
