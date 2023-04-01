@@ -444,4 +444,28 @@ _Friday 31st March_
 Today's challenge for the hackathon was to apply all we had learnt over the week to build a landing page for our bootcamp. This involved going over our user personas and stories, working through our user journey flow diagram and then creating a wireframe that would keep our user at the forefront of our desiggn. We then went on to create a plan for our HTML and CSS. The rest of our day was spent working on our landing page through pair-programming. We were able to work really well together and got a lot done. We didn't manage to complete the HTML and CSS for our design but I am hoping to do that over the weekend. 
 
 ### Links to work / resources:
+https://github.com/anjiqbal/codewars/blob/main/lvl7/descending-order.js
 
+https://github.com/anjiqbal/codewars/blob/main/lvl7/highest-and-lowest.js
+
+## Day 32 of 100 Days Of Code
+
+_Saturday 1st April_
+
+### Today's progress:
+
+- Tricky codewars challenge that needed to throw an error depending on the argument passed to the function
+- I worked on the landing page I started yesterday and got it to an acceptable level of completion, though it could be improved.
+- Made sure my CSS was well organised and my HTML elements were chosen based on semantic meaning
+
+### Thoughts:
+
+The logic of today's codewars kata was quite challenging. I needed to throw an error if the argument was false but return an empty array if the argument was '0' or 0. I had to arrange the conditions in a way that satisfied all the requirements - I mostly did this with trial and error.
+
+I spent a few hours today completing yesterday's hackathon. I finished off the section we were woeking on and added two more and a footer. I really enjoyed it as I got some more Flexbox and CSS practice. 
+
+I went over my code and made sure that the HTML tags were all chosen for their semantic meaning, I also went over my CSS and made sure it was well organised and that I reused classes when it made sense.
+
+### Links to work / resources:
+
+https://github.com/anjiqbal/codewars/blob/main/lvl6/prefill-array.js
