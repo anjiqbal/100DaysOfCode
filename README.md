@@ -469,3 +469,20 @@ I went over my code and made sure that the HTML tags were all chosen for their s
 ### Links to work / resources:
 
 https://github.com/anjiqbal/codewars/blob/main/lvl6/prefill-array.js
+
+## Day 33 of 100 Days Of Code
+
+_Sunday 2nd April_
+
+### Today's progress:
+
+- Did some reading around the topic of writing clean code
+- Started work on the recap tasks for SoC - designing a portfolio site for myself
+- Watched some videos on testing and Node.js
+
+### Thoughts:
+
+I had a busy life day today so didn;#'t get as much coding done as I would ordinarily. It was interesting to learn how to test JavaScript code and how to write those tests. Looking forward to learning more about this topic and getting more familiar with Node.
+
+### Links to work / resources:
+https://github.com/anjiqbal/codewars/blob/main/lvl7/digit-digit.js
