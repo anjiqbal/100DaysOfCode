@@ -1,8 +1,8 @@
 # 100 Days Of Code / School of Code Bootcamp 14.0 Diary
 
 ## Day 13 of 100 Days Of Code
-## Week 1 - School of Code Bootcamp
 
+## Week 1 - School of Code Bootcamp
 
 _Monday 13th March_
 
@@ -16,9 +16,11 @@ _Monday 13th March_
 ### Thoughts:
 
 #### 100 days of code
+
 My codewars challenge was to search an array for smiley faces and return a count. As time was an issue, I hardcoded the passable smiley faces in. Given more time, I would have coded a more modular solution where it would be easy to make changes.
 
 #### School of Code
+
 I feel incredibly privileged to be a part of cohort 14 with The School of Code. I plan on making the absolute most of it and doing everything I can to be successful. A massive part of that will be ensuring I manage my time effectively and remembering that it is a marathon not a sprint. I can't wait to see what the rest of the bootcamp and 100 days of code bring.
 
 ### Links to work / resources:
@@ -26,24 +28,26 @@ I feel incredibly privileged to be a part of cohort 14 with The School of Code. 
 https://github.com/anjiqbal/codewars/blob/main/lvl6/count-smiley-face.js
 
 ## Day 14 of 100 Days Of Code
-## Week 1 - School of Code Bootcamp
 
+## Week 1 - School of Code Bootcamp
 
 _Tuesday 14th March_
 
 ### Today's progress:
 
 - I learnt more about computational thinking - decomposition, pattern recognition, abstraction and algorithms.
-- I worked on a login and more or less game with my pair programming partner in scratch. 
-- I applied the concepts we learnt and a more systematic approach to my codewars challenge in the evening. 
+- I worked on a login and more or less game with my pair programming partner in scratch.
+- I applied the concepts we learnt and a more systematic approach to my codewars challenge in the evening.
 
 ### Thoughts:
 
 #### 100 days of code
+
 The more rigorous, systematic way of breaking down the codewars problem was really useful. I struggled at first but once I began, it became easier. The pseudocode I ended up writing was really helpful when I eventually went to code the solution.
 
 #### School of Code
-I'm enjoying working with my partner for the week, Bernard Molyneux. The process of sharing ideas and articulating my thoughts has already been incredibly valuable to me and I feel myself gaining confidence. 
+
+I'm enjoying working with my partner for the week, Bernard Molyneux. The process of sharing ideas and articulating my thoughts has already been incredibly valuable to me and I feel myself gaining confidence.
 The approach to problem solving and making sure you really understand what it is that you are trying to solve is surprisingly challenging but is obviously very neccessary. I realise now that while I thought I had a systematic approach to finding solutions, actually I was still rushing in to code
 
 ### Links to work / resources:
@@ -51,14 +55,15 @@ The approach to problem solving and making sure you really understand what it is
 https://github.com/anjiqbal/codewars/blob/main/lvl6/consecutive-strings.js
 
 ## Day 15 of 100 Days Of Code
+
 ## Week 1 - School of Code Bootcamp
 
 _Wednesday 15th March_
 
 ### Today's progress:
 
-- Started learning JavaScript with SoC today. As I have covered these topics in my personal learning prior to the bootcamp, it served as useful refresher. 
-- I got more familiar with Git and GitHub today. 
+- Started learning JavaScript with SoC today. As I have covered these topics in my personal learning prior to the bootcamp, it served as useful refresher.
+- I got more familiar with Git and GitHub today.
 - Working as part of a team is getting easier, still some technical challenges to overcome, mainly related to GitHub
 
 ### Thoughts:
@@ -66,11 +71,12 @@ _Wednesday 15th March_
 Covered variables, loops and functions today with SoC which was a good reminder of the foundations. I found talking a team member through a workshop activity especially useful as it made me slow down, really think about what was required and then articulate that in a way that was understandable.
 Today's Codewars challenge was something I had come across before so I was able to apply that previous knowledge to today's problem.
 
-
 ### Links to work / resources:
+
 https://github.com/anjiqbal/codewars/blob/main/lvl6/count-char-in-str.js
 
 ## Day 16 of 100 Days Of Code
+
 ## Week 1 - School of Code Bootcamp
 
 _Thursday 16th March_
@@ -78,7 +84,7 @@ _Thursday 16th March_
 ### Today's progress:
 
 - Revised objects, creating objects and accessing properties using dot notation and square brackets
-- Revised arrays, creating arrays, nested arrays, arrays of objects and looping over arrays 
+- Revised arrays, creating arrays, nested arrays, arrays of objects and looping over arrays
 - Used git and github to successfully share files with my partner and worl collaboratively to complete the tasks assigned in the workshop. We has some time leftover so we played around with some array methods
 
 ### Thoughts:
@@ -86,9 +92,8 @@ _Thursday 16th March_
 SoC morning session covered the importance of giving and receiving feedback and how valubable it is for growth. I found this session interesting as it made me think about how I give feedback and reminded me that the goal is not to expect someone to change. It also reminded me that receiving feedback is an opportunity for growth.
 
 Today's codewars kata was on the topic of manipulating a number using array methods to expand it e.g. 306 -> '300 + 6'
-My first approach did not work as expected as I used the array method map() which was not skipping over the zeroes as I expected but instead 
+My first approach did not work as expected as I used the array method map() which was not skipping over the zeroes as I expected but instead
 returning undefined. I then used to filter() to remove the zeroes but this also presented a probelem as the index was important because of place value.
-
 
 <img src="https://github.com/anjiqbal/100DaysOfCode/blob/main/images/16.3.2023.2CW.png" alt="code snippet" />
 
@@ -97,9 +102,11 @@ I then realised I was over thinking this problem and realised I could use a simp
 <img src="https://github.com/anjiqbal/100DaysOfCode/blob/main/images/16.3.2023.1CW.png" alt="code snippet" />
 
 ### Links to work / resources:
+
 https://github.com/anjiqbal/codewars/blob/main/lvl6/num-in-expanded-form.js
 
 ## Day 17 of 100 Days Of Code
+
 ## Week 1 - School of Code Bootcamp
 
 _Friday 17th March_
@@ -117,6 +124,7 @@ Today's mentor meeting was incredibly informative. I learnt a lot about how to g
 The hackathon involved creating a game of rock paper scissors. We managed to complete most of it. The key lesson I learnt was on collaborating with others and working together throught making a plan, pair programming and sharing via GitHub.
 
 ### Links to work / resources:
+
 https://github.com/anjiqbal/codewars/blob/main/lvl6/two-sum.js
 
 ## Day 18 of 100 Days Of Code
@@ -125,7 +133,7 @@ _Saturday 18th March_
 
 ### Today's progress:
 
-- Applied what I learnt about problem solving over the past week to solve a level 5 Codewars kata. 
+- Applied what I learnt about problem solving over the past week to solve a level 5 Codewars kata.
 - Did some reading around ChatGPT and the best way to use this tool.
 - Forked project hackathon repo and refactored the code
 
@@ -137,11 +145,10 @@ As I had more time today I decided to attempt a level 5 kata and appproach it in
 
 I also worked on refactoring the code from the hackathon yesterday. A really useful task as I looked for patterns and was able to tidy up the code. I made sure each action was done by one function and created a function that controlled the game.
 
-
 ### Links to work / resources:
+
 https://feixie1980.medium.com/array-combination-iteration-with-javascript-generator-function-f4718aec1ca0
 https://github.com/anjiqbal/codewars/blob/main/lvl5/best-travel.js
-
 
 ## Day 19 of 100 Days Of Code
 
@@ -166,12 +173,13 @@ I then spent some time looking at the code to see if I could improve it. I reali
 I learnt that chatGPT is an incredibly powerful tool but can also be dangerous for learners and early career level developers. It can be useful to generate questions to practice your skills and check syntax etc. Doing more complicated actions with it can be risky if you do not have the understanding and experience of your programming language at a deeper level.
 
 ### Links to work / resources:
+
 https://github.com/anjiqbal/codewars/blob/main/lvl6/mexican-wave.js
 
 https://www.youtube.com/watch?v=BRELYfngZSk
 
-
 ## Day 20 of 100 Days Of Code
+
 ## Week 2 - School of Code Bootcamp
 
 _Monday 20th March_
@@ -187,13 +195,14 @@ _Monday 20th March_
 We covered a lot today regarding the DOM and how to manipulate it. I found it incredibly useful to be able to work through the assigned tasks in a group as we could discuss and plan together and then tackle the tasks. I found it useful to research how to use certain methods, for example removeChild.
 
 Today's codewars challenge was regarding manipulating strings. Part of the challenge was to leave certain words lowercase. These words were passed in as a string as the second argument. However this argument was optional. Initilaly, when this second argument was not passed, I was getting errrors. I realised that I could overcome these errors by setting the default value of that parameter as an empty string instead of using if statements to check.
- ```
- function titleCase(title, minorWords = '')
- 
- ```
 
+```
+function titleCase(title, minorWords = '')
+
+```
 
 ### Links to work / resources:
+
 https://javascript.info/document
 
 https://github.com/SchoolOfCode/bc14_w2d1_workshop_dom-102-anjiqbal
@@ -201,6 +210,7 @@ https://github.com/SchoolOfCode/bc14_w2d1_workshop_dom-102-anjiqbal
 https://github.com/anjiqbal/codewars/blob/main/lvl6/title-case.js
 
 ## Day 21 of 100 Days Of Code
+
 ## Week 2 - School of Code Bootcamp
 
 _Tuesday 21th March_
@@ -219,12 +229,12 @@ In our teams we worked on adding event listeners to a site to carry out actions 
 
 I also learned about AI tools and how powerful they can be but also how we should carefully approach the code that is written for us. We asked ChatGPT to generate the HTML, JavaScript, and CSS code for a basic rock, paper, scissors game. I found that there were errors in the code that needed debugging, however the very basic game did eventually work. I refactored the code to remove the onclick event listener from the HTML and instead added event listeners to the JavaScript file. I found the more precise I was in my language with Github Copilot the more useful the code was for my intended purpose.
 
-
 ### Links to work / resources:
+
 https://www.youtube.com/watch?v=eLLHYBoUTNg&list=PLM5niutPsMUvsAP61ZaAUQ3lTf93pdvWM
 
-
 ## Day 22 of 100 Days Of Code
+
 ## Week 2 - School of Code Bootcamp
 
 _Wednesday 22th March_
@@ -233,23 +243,24 @@ _Wednesday 22th March_
 
 - I learnt about asynchronous and synchronous JavaScript and the async methods setTimeout() and setInterval as well as the event loop.
 - I learnt about API's and how to use the fetch method to send a GET request.
-- I applied everything I learnt to send a GET request to cat fact API. I used event listeners to make the page dynamic. 
+- I applied everything I learnt to send a GET request to cat fact API. I used event listeners to make the page dynamic.
 
 ### Thoughts:
 
 Codewars had me stumped for a while this morning but I realised after putting some console logs that my map method was resetting my count to 1 each time it was running despite me thinking it was being updated.
 
-JavaScript is single-threaded but asynchronous functions allow it to behave like it is multi-threaded and non-blocking.  The event loop organises the order in which code is executed. 
+JavaScript is single-threaded but asynchronous functions allow it to behave like it is multi-threaded and non-blocking. The event loop organises the order in which code is executed.
 
 API's can be accessed using the fetch method. Fetch is asynchronous and returns a promise. We need to wait for the promise to resolve or reject before we can do anything with it. Using the async keyword before the function and then await within the function allows us to wait for the promise to resolve withoult blocking the rest of the code.
 
 ### Links to work / resources:
+
 https://github.com/anjiqbal/codewars/blob/main/lvl6/multiplication-table.js
 
 https://www.youtube.com/watch?v=8aGhZQkoFbQ
 
-
 ## Day 23 of 100 Days Of Code
+
 ## Week 2 - School of Code Bootcamp
 
 _Thursday 23th March_
@@ -264,13 +275,14 @@ _Thursday 23th March_
 
 After solving a codewars challenge on my own this morning, I was also able to spend some time solving some problems together in our team. It's a useful way of troubleshooting and I find thinking out loud with others is helping me to cement ideas and language into my understanding.
 
-Also spent some time planning out an app that will allow users to practice times tables. I managed to code a basic structure and will add to it over the coming few days. 
+Also spent some time planning out an app that will allow users to practice times tables. I managed to code a basic structure and will add to it over the coming few days.
 
 ### Links to work / resources:
+
 https://github.com/anjiqbal/codewars/blob/main/lvl6/help-the-bookseller.js
 
-
 ## Day 24 of 100 Days Of Code
+
 ## Week 2 - School of Code Bootcamp
 
 _Friday 24th March_
@@ -283,11 +295,12 @@ _Friday 24th March_
 
 ### Thoughts:
 
-Today was hackathon day. We were tasked to explore a few APIs, select one and create an app. We spent a decent amount of time ensuring that we had the foundations of an app that we could then build further features on, time permitting. We decided to go with a dad joke API and to set the page up as a text based conversation. Ultimately, we found that the JavaScript was mostly straightforward, it was the CSS that caused us problems. 
+Today was hackathon day. We were tasked to explore a few APIs, select one and create an app. We spent a decent amount of time ensuring that we had the foundations of an app that we could then build further features on, time permitting. We decided to go with a dad joke API and to set the page up as a text based conversation. Ultimately, we found that the JavaScript was mostly straightforward, it was the CSS that caused us problems.
 
 We struggled at first to align the elements as if it was a conversation. We were mostly able to overcome this by lots of research and working together. It made me realise that I could definitely do with some more CSS practice.
 
 ### Links to work / resources:
+
 https://github.com/anjiqbal/codewars/blob/main/lvl6/data-reverse.js
 
 ## Day 25 of 100 Days Of Code
@@ -302,7 +315,7 @@ _Saturday 25th March_
 
 ### Thoughts:
 
-Today was a busy day so I didnt't manage to get as much coding done as I would have liked. 
+Today was a busy day so I didnt't manage to get as much coding done as I would have liked.
 
 I completed a codewars challenge that involved adding methods to the Array prototype. Allowed me to get some more understanding of the this keyword.
 
@@ -335,6 +348,7 @@ Given more time, I plan on adding styles as well as some more functionality. I w
 https://github.com/anjiqbal/codewars/blob/main/lvl6/can-you-keep-a-secret.js
 
 ## Day 27 of 100 Days Of Code
+
 ## Week 3 - School of Code Bootcamp
 
 _Monday 27th March_
@@ -342,24 +356,25 @@ _Monday 27th March_
 ### Today's progress:
 
 - I learnt more about the benefits of developing software with an agile methodology
-- I learnt a little about what a site reliability engineer (SRE) does from Dave Adams. 
+- I learnt a little about what a site reliability engineer (SRE) does from Dave Adams.
 - I spent some time on CSSGrid and Flexbox, and added further functionality to rock/paper/scissors game.
 
 ### Thoughts:
 
 I learnt more about the agile methodology, it's core values and a little of the history and how it first came about. I did some further reseearch on the Atlassian website. I think fundamentally it is a process that involves understanding, collaborating, learning and staying flexible and gives you the ability to deliver value to customers far quicker.
 
-I spent some time working on a previous project - rps game. I added further functionality to it by allowing the user to pick 3/5/7 games, the winner being the one who wins the most. I applied what I learnt today on CSSGrid and Flexbox to the styling of the game. 
+I spent some time working on a previous project - rps game. I added further functionality to it by allowing the user to pick 3/5/7 games, the winner being the one who wins the most. I applied what I learnt today on CSSGrid and Flexbox to the styling of the game.
 
 ### Links to work / resources:
+
 https://github.com/anjiqbal/codewars/blob/main/lvl6/number-raised-eureka.js
 
 https://sre.google/sre-book/table-of-contents/
 
-https://atlassian.com/agile 
-
+https://atlassian.com/agile
 
 ## Day 28 of 100 Days Of Code
+
 ## Week 3 - School of Code Bootcamp
 
 _Tuesday 28th March_
@@ -376,13 +391,12 @@ Not much coding today with SoC as we covered UX and the design process. I found 
 
 My Codewars challenge today was really fun as it really stretched my understanding of the sort method for arrays. I also used destructured assignment to split out the names in the string. I had to play around with the sort method and what it returned in order to get the correct sorting of names. I then refactored the code and split some of the things into separate functions.
 
-
 ### Links to work / resources:
+
 https://github.com/anjiqbal/codewars/blob/main/lvl6/meeting.js
 
-
-
 ## Day 29 of 100 Days Of Code
+
 ## Week 3 - School of Code Bootcamp
 
 _Wednesday 29th March_
@@ -395,18 +409,18 @@ _Wednesday 29th March_
 
 ### Thoughts:
 
-I found the discussions around accessiblity very interesting today. The lighthouse audit is a very useful tool to not only see how your webiste performs but alos how accessible it is. 
+I found the discussions around accessiblity very interesting today. The lighthouse audit is a very useful tool to not only see how your webiste performs but alos how accessible it is.
 
 I need to spend more time on Figma and practice how to build a wireframe. I feel it will be a really useful tool to help me build my own projects.
 
 I had a lot of fun attempting to build a BBC clone today in HTML and CSS. I didn't have as much time as I would have like so will be coming back to it on the weekend hopefully. It was a really useful exercise as it helped me to put in to practice what I learnt about Flexbox and CSSGrid.
 
-
 ### Links to work / resources:
+
 https://github.com/anjiqbal/codewars/blob/main/lvl7/sum-of-2-pos-integers.js
 
-
 ## Day 30 of 100 Days Of Code
+
 ## Week 3 - School of Code Bootcamp
 
 _Thursday 30th March_
@@ -426,9 +440,11 @@ I spent some time once School of Code was over continuing to work on my BBC clon
 Also spent some time doing some codewars challenge - some as pair programming and some in my own time. The level 6 kata was quite tricky but I feel I am getting a better understanding of objects and array methods and how I can combine them to solve a problem.
 
 ### Links to work / resources:
+
 https://github.com/anjiqbal/codewars/blob/main/lvl6/highest-rank-number-in-array.js
 
 ## Day 31 of 100 Days Of Code
+
 ## Week 3 - School of Code Bootcamp
 
 _Friday 31st March_
@@ -441,9 +457,10 @@ _Friday 31st March_
 
 ### Thoughts:
 
-Today's challenge for the hackathon was to apply all we had learnt over the week to build a landing page for our bootcamp. This involved going over our user personas and stories, working through our user journey flow diagram and then creating a wireframe that would keep our user at the forefront of our desiggn. We then went on to create a plan for our HTML and CSS. The rest of our day was spent working on our landing page through pair-programming. We were able to work really well together and got a lot done. We didn't manage to complete the HTML and CSS for our design but I am hoping to do that over the weekend. 
+Today's challenge for the hackathon was to apply all we had learnt over the week to build a landing page for our bootcamp. This involved going over our user personas and stories, working through our user journey flow diagram and then creating a wireframe that would keep our user at the forefront of our desiggn. We then went on to create a plan for our HTML and CSS. The rest of our day was spent working on our landing page through pair-programming. We were able to work really well together and got a lot done. We didn't manage to complete the HTML and CSS for our design but I am hoping to do that over the weekend.
 
 ### Links to work / resources:
+
 https://github.com/anjiqbal/codewars/blob/main/lvl7/descending-order.js
 
 https://github.com/anjiqbal/codewars/blob/main/lvl7/highest-and-lowest.js
@@ -462,7 +479,7 @@ _Saturday 1st April_
 
 The logic of today's codewars kata was quite challenging. I needed to throw an error if the argument was false but return an empty array if the argument was '0' or 0. I had to arrange the conditions in a way that satisfied all the requirements - I mostly did this with trial and error.
 
-I spent a few hours today completing yesterday's hackathon. I finished off the section we were woeking on and added two more and a footer. I really enjoyed it as I got some more Flexbox and CSS practice. 
+I spent a few hours today completing yesterday's hackathon. I finished off the section we were woeking on and added two more and a footer. I really enjoyed it as I got some more Flexbox and CSS practice.
 
 I went over my code and made sure that the HTML tags were all chosen for their semantic meaning, I also went over my CSS and made sure it was well organised and that I reused classes when it made sense.
 
@@ -485,4 +502,29 @@ _Sunday 2nd April_
 I had a busy life day today so didn;#'t get as much coding done as I would ordinarily. It was interesting to learn how to test JavaScript code and how to write those tests. Looking forward to learning more about this topic and getting more familiar with Node.
 
 ### Links to work / resources:
+
 https://github.com/anjiqbal/codewars/blob/main/lvl7/digit-digit.js
+
+## Day 34 of 100 Days Of Code
+
+## Week 4 - School of Code Bootcamp
+
+_Monday 3rd April_
+
+### Today's progress:
+
+- I learnt about test driven development: the importance of it, the different types and ways to go about testing.
+- I learnt about Node.js and how it allows us to run JavaScript outside of the browser.
+- I initialised a node project and exported and imported modules and installed third party packages.
+
+### Thoughts:
+
+I really enjoyed learning about Node.js today. I learnt many new commands for the command line, including how to add and run an npm script. I learnt about EMS which I did further research on and found it is the syntax and rules by which we can import and export modules by. It also allows us to import from anywhere in the code as long as we do so asynchronously and not just from the top of the file
+
+I spent some time after SoC practicing some more using learn your node. I also did a codewars challenge.
+
+### Links to work / resources:
+
+https://github.com/workshopper/learnyounode
+
+https://github.com/anjiqbal/codewars/commit/65175b6c85107d58642c801c159bf4258dea1354
