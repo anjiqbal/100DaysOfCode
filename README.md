@@ -528,3 +528,25 @@ I spent some time after SoC practicing some more using learn your node. I also d
 https://github.com/workshopper/learnyounode
 
 https://github.com/anjiqbal/codewars/commit/65175b6c85107d58642c801c159bf4258dea1354
+
+## Day 35 of 100 Days Of Code
+
+## Week 4 - School of Code Bootcamp
+
+_Tuesday 4th April_
+
+### Today's progress:
+
+- I learnt the difference between unit tests, integration tests and system wide tests
+- I learnt about the 3 A's pattern which helps you structure tests in a way that makes them easier to read and understand
+- We wrote some functions and the tests to go with them within our team
+
+### Thoughts:
+
+I learnt unit tests test individual units of code i.e. one function. Integration tests combine some of those units and then tests if they still work. End to end tests the performance of the whole application.
+
+We used Jest to write some unit tests for some functions. We imported in the necessary functions from jest and then used them to test our functions.
+
+My codewars challenge was quite tricky and while I was able to understand some of the logic and pass some tests I couldn't complete it. I spent some time looking at the solutions and added some of the code that I saw to my anki flashcards. The solutions made sense when I read through the code I just didn't understand the logic.
+
+### Links to work / resources:
