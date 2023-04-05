@@ -559,7 +559,7 @@ https://github.com/anjiqbal/codewars/commit/7cd2197580207483ff3d6821f7626eaac31e
 
 ## Week 5 - School of Code Bootcamp
 
-_Tuesday 4th April_
+_Wednesday 5h April_
 
 ### Today's progress:
 
