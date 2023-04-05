@@ -550,3 +550,27 @@ We used Jest to write some unit tests for some functions. We imported in the nec
 My codewars challenge was quite tricky and while I was able to understand some of the logic and pass some tests I couldn't complete it. I spent some time looking at the solutions and added some of the code that I saw to my anki flashcards. The solutions made sense when I read through the code I just didn't understand the logic.
 
 ### Links to work / resources:
+
+https://github.com/anjiqbal/codewars/commit/657b977ac199e5046b87eed81f884ed36d02a318
+
+https://github.com/anjiqbal/codewars/commit/7cd2197580207483ff3d6821f7626eaac31ecec4
+
+## Day 36 of 100 Days Of Code
+
+## Week 5 - School of Code Bootcamp
+
+_Tuesday 4th April_
+
+### Today's progress:
+
+- I learnt about end to end testing - testing the whole app or project.
+- I spent time reading and understanding the documentaion for Playwright - the tool we are using to carry out our e2e tests.
+- I wrote e2e tests for a simple to-do list app
+
+### Thoughts:
+
+Today was a super interesting day. I really enjoyed learning how to write tests to simulate a user interacting with an app. It did take trial and error and spending a lot of time with the documention. We were able to write a test that checked that the page loaded, that the input could be typed into, that when the button was clicked the item appeared underneath and the same for when enter was pressed. We were also able to check that the text that was input matched the text in the list of to-do's.
+
+In the evening, I spent some more time watching some videos on writing tests to get a deeper understanding.
+
+### Links to work / resources:
