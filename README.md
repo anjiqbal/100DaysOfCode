@@ -557,7 +557,7 @@ https://github.com/anjiqbal/codewars/commit/7cd2197580207483ff3d6821f7626eaac31e
 
 ## Day 36 of 100 Days Of Code
 
-## Week 5 - School of Code Bootcamp
+## Week 4 - School of Code Bootcamp
 
 _Wednesday 5h April_
 
@@ -574,3 +574,27 @@ Today was a super interesting day. I really enjoyed learning how to write tests 
 In the evening, I spent some more time watching some videos on writing tests to get a deeper understanding.
 
 ### Links to work / resources:
+
+## Day 37 of 100 Days Of Code
+
+## Week 4 - School of Code Bootcamp
+
+_Thursday 6h April_
+
+### Today's progress:
+
+- I learnt how to use the debuggging tool when running tests.
+- I wrote tests as part of a team using Playwright.
+- I did a presentation on my learning today.
+
+### Thoughts:
+
+Today's mindset session at SoC was an interesting one about our inner critic and inner champion. It helped to understand where the negative thoughts come from and why.
+
+We has a shorter hackathon today due to the bank holiday tomorrow. It was really useful to apply what I learned yesterday about end to end testing on today's hackathon. I found that the code we were writing today was already better than what we did yesterday. Watching the videos yesterday evening definitely helped.
+
+The dubugging tool also came in handy to go through the code step by step. I was also able to share how to use this with team members.
+
+### Links to work / resources:
+
+https://github.com/anjiqbal/codewars/commit/0499aa644d6cdd91fab8abda70cfc046abc27f2d
