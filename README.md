@@ -598,3 +598,27 @@ The dubugging tool also came in handy to go through the code step by step. I was
 ### Links to work / resources:
 
 https://github.com/anjiqbal/codewars/commit/0499aa644d6cdd91fab8abda70cfc046abc27f2d
+
+## Day 38 of 100 Days Of Code
+
+## Week 4 - School of Code Bootcamp
+
+_Friday 7h April_
+
+### Today's progress:
+
+- Bank holiday today so no Soc - Codewars challenge on ASCII art - creating a diamond of a given length.
+- Created my own Codewars challene. Tested expected outcomes using Jest.
+- I started learning React - what it is used for and some basics
+
+### Thoughts:
+
+I got close to solving today's challenge but found myself stuck towards the end. I wa able to vreate the first half of the diamond but not the rest. I asked ChatGPT for help and was able to correctly recreate a diamond. I made sure to then delete the code and write it out agian so I could understand an learn from it.
+
+I also created my own Codewars challenge. I did this by first creating an idea of what I want to do, I then wrote out a plan of the tests that I would need. I then created the tests but I found this a bit tricky without having the function code. I think test driven development will take some practice, but it a was a very interesting exercise.
+
+### Links to work / resources:
+
+https://github.com/SchoolOfCode/bc14_w4d3_workshop_make-your-own-codewars-anjiqbal
+
+https://github.com/anjiqbal/codewars
