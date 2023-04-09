@@ -559,7 +559,7 @@ https://github.com/anjiqbal/codewars/commit/7cd2197580207483ff3d6821f7626eaac31e
 
 ## Week 4 - School of Code Bootcamp
 
-_Wednesday 5h April_
+_Wednesday 5th April_
 
 ### Today's progress:
 
@@ -579,7 +579,7 @@ In the evening, I spent some more time watching some videos on writing tests to 
 
 ## Week 4 - School of Code Bootcamp
 
-_Thursday 6h April_
+_Thursday 6th April_
 
 ### Today's progress:
 
@@ -603,7 +603,7 @@ https://github.com/anjiqbal/codewars/commit/0499aa644d6cdd91fab8abda70cfc046abc2
 
 ## Week 4 - School of Code Bootcamp
 
-_Friday 7h April_
+_Friday 7th April_
 
 ### Today's progress:
 
@@ -622,3 +622,35 @@ I also created my own Codewars challenge. I did this by first creating an idea o
 https://github.com/SchoolOfCode/bc14_w4d3_workshop_make-your-own-codewars-anjiqbal
 
 https://github.com/anjiqbal/codewars
+
+## Day 39 of 100 Days Of Code
+
+_Saturday 8th April_
+
+### Today's progress:
+
+- e2e testing with Playwright
+- completed recap task testing a user flow
+- completed Thursdays hackathon
+
+### Thoughts:
+
+Lots of e2e testing with Playwright. Tested a 'type and send tweet' user flow and completed our Thursday todo list testing hackathon. Also watched some introduction to React videos.
+
+### Links to work / resources:
+
+## Day 40 of 100 Days Of Code
+
+_Sunday 9th April_
+
+### Today's progress:
+
+- Did some reading on React and watchd a video
+- Codewars
+- Made a plan on resources I want to use tomorrow to learn React
+
+### Thoughts:
+
+I didn't manage to complete my codewars challenge today. I feel I am close so I am hoping to solve it tomorrow. I also made a plan on how I want to approach learning React tomorrow. This weekend has been very busy but I will hopefully be able to dedicate more time tomorrow
+
+### Links to work / resources:
