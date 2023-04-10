@@ -645,7 +645,7 @@ _Sunday 9th April_
 
 ### Today's progress:
 
-- Did some reading on React and watchd a video
+- Did some reading on React and watched a video
 - Codewars
 - Made a plan on resources I want to use tomorrow to learn React
 
@@ -654,3 +654,25 @@ _Sunday 9th April_
 I didn't manage to complete my codewars challenge today. I feel I am close so I am hoping to solve it tomorrow. I also made a plan on how I want to approach learning React tomorrow. This weekend has been very busy but I will hopefully be able to dedicate more time tomorrow
 
 ### Links to work / resources:
+
+## Day 41 of 100 Days Of Code
+
+## Week 5 - School of Code Bootcamp
+
+_Monday 10th April_
+
+### Today's progress:
+
+- Solved yesterday's codewars challenge that I was stuck on
+- Watched a React crash course video
+- Read the React docs to get more practice reading documentation
+
+### Thoughts:
+
+I approached my codewars challenge fresh this morning after being stuck on it yesterday. I found that working out on paper how I would solve a solution was the best first approach. I found it a bit tricky to then convert this to code. I found I was getting a partial correct answer but needed to use console logs to understand where I was going wrong. I found that the way I was assigning variables at the beginning of the loop was incorrect and I realised using destructuring would work better as they would be assigned simultaneously.
+
+I'm getting more familiar with React and how to use it. I'm looking forward to learn more this coming week and start building projects using it.
+
+### Links to work / resources:
+
+https://github.com/anjiqbal/codewars/commit/6de408df4e010f2dc647a0a9b59f1cbcab824a22
