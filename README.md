@@ -676,3 +676,27 @@ I'm getting more familiar with React and how to use it. I'm looking forward to l
 ### Links to work / resources:
 
 https://github.com/anjiqbal/codewars/commit/6de408df4e010f2dc647a0a9b59f1cbcab824a22
+
+## Day 42 of 100 Days Of Code
+
+## Week 5 - School of Code Bootcamp
+
+_Tuesday 11th April_
+
+### Today's progress:
+
+- React is a JS library that allows us to create highly performant user interfaces by creating UI components.
+- The virtual DOM is a representation of UI kept in memory. It compares its current state with the actual DOM and makes changes and updates accordingly.
+- We create components using functions - each component shoul do one thing(the single responsibility principle)
+
+### Thoughts:
+
+We covered a lot of the fundamentals of React. We began by using raw React in a html file and then moved on to using create-react-app which allows us to set up a React app in one simple command. We looked at component trees as a plan for an app.We also covered importing, exporting, using JSX and destructuring with props. Props is an object that is created and passed to an element. We can then access the values of the prop object using dot notation.
+
+I spent some time doing a codewars challenge and completing the workshop from the day. Also I made sure to add a lot of the learning from today to my flashcards app.
+
+### Links to work / resources:
+
+https://github.com/anjiqbal/codewars/commit/0258ea547a2d4da0dd27d09944129ee7619c02da
+
+https://github.com/SchoolOfCode/bc14_w5d1_workshop_react-components-anjiqbal
