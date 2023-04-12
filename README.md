@@ -700,3 +700,29 @@ I spent some time doing a codewars challenge and completing the workshop from th
 https://github.com/anjiqbal/codewars/commit/0258ea547a2d4da0dd27d09944129ee7619c02da
 
 https://github.com/SchoolOfCode/bc14_w5d1_workshop_react-components-anjiqbal
+
+## Day 43 of 100 Days Of Code
+
+## Week 5 - School of Code Bootcamp
+
+_Wednesday 12th April_
+
+### Today's progress:
+
+- Learnt about the hooks API in react which was release in 2018
+- Went deeper with useState
+- Learnt more about how to manage where the state of a component should be stored using a component tree
+
+### Thoughts:
+
+The useState hook allows us to keeps track of the state of a variable and then allows us to set this state using a function. We can set the initial state by passing in an argument to useState. This can be any data type including numbers, strings, arrays, objects and booleans.
+
+I learnt how important it is to track the data flow and keep in mind where the best place is to set the state of a variable you need to keep track of.
+
+I learned how to pass functions as props down to components which can then be used e.g. with onClick and onChange.
+
+### Links to work / resources:
+
+https://github.com/SchoolOfCode/bc14_w5d2_workshop_usestate_pt2-anjiqbal
+
+https://github.com/anjiqbal/codewars/commit/698cecec96b3fbe1337d7f5de231a59b71bf40ef
