@@ -726,3 +726,27 @@ I learned how to pass functions as props down to components which can then be us
 https://github.com/SchoolOfCode/bc14_w5d2_workshop_usestate_pt2-anjiqbal
 
 https://github.com/anjiqbal/codewars/commit/698cecec96b3fbe1337d7f5de231a59b71bf40ef
+
+## Day 44 of 100 Days Of Code
+
+## Week 5 - School of Code Bootcamp
+
+_Thursday 13th April_
+
+### Today's progress:
+
+- Mindset session covering different ways to come to a decision as a team.
+- I learnt abouta immutability and why that's important especially when using states in React
+- Used the spread operator and the map, filter and slice array method to understand how to make changes immutably
+
+### Thoughts:
+
+The mindset session today was very interesting as we covered how group decisions are not about the right answer but about what the group wants to do, because often there is no right answer.
+
+I learnt about how immutability is incredibly important when talking about state changes in React. If we don't make changes immutably then we change the original object and React can't compare the old version to the new version and re-render accordingly.
+
+I learnt about how to use the spread operator and the slice array method to make changes, insert items, remove items etc. all done immutably. I also learnt about shallow copies and deep copies and how that can be done using the slice method.
+
+### Links to work / resources:
+
+https://github.com/SchoolOfCode/bc14_w5d3_workshop_react-lists-and-keys-anjiqbal
