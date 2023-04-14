@@ -750,3 +750,31 @@ I learnt about how to use the spread operator and the slice array method to make
 ### Links to work / resources:
 
 https://github.com/SchoolOfCode/bc14_w5d3_workshop_react-lists-and-keys-anjiqbal
+
+## Day 45 of 100 Days Of Code
+
+## Week 5 - School of Code Bootcamp
+
+_Friday 14th April_
+
+### Today's progress:
+
+- I learnt how to get a value from an input onClick and add it to an array.
+- I stored the array file as a separate module and used it to update the todo list.
+- I was able to update and make changes to the page and array file using add and delete buttons.
+
+### Thoughts:
+
+HACKATHON
+
+Today's hackathon challenge was to create a todo list app that would allow us to add a to do to a list, display the list of todos and then delete something off the todo list if the delete button was pressed.
+
+We began by creating a plan and a component tree diagram that would show us where we needed to set states and which component would be passed props. I struggle a bit with the planning of an app such as this and the creating of a component tree diagram as I find I'm not certain about what I need to use and pass down until we start coding. I am getting better at this and think it's just a acase of vreating more React apps to understand the flow a little better.
+
+We found at first that the way that made sense to us was to create a separate file that would contain our todo's in an array. This was because we were unsure how to pass the todo item over to the list component when they were on the same level (not parent/child). We quickly realised that we needed useState to create and array and keep track of it. We were able to code the add button but didn't have time to complete the app.
+
+My plan for the weekend is to start from scratch and create the app again.
+
+### Links to work / resources:
+
+https://github.com/SchoolOfCode/bc14_w5d4_hackathon_react-athon-room1-anas-anjum-kunle-w5d1
