@@ -779,7 +779,7 @@ My plan for the weekend is to start from scratch and create the app again.
 
 https://github.com/SchoolOfCode/bc14_w5d4_hackathon_react-athon-room1-anas-anjum-kunle-w5d1
 
-## Day 47 of 100 Days Of Code
+## Day 46 of 100 Days Of Code
 
 _Saturday 16th April_
 
@@ -798,3 +798,24 @@ I also began planning out a blog post app. I created a detailed component tree t
 ### Links to work / resources:
 
 https://github.com/anjiqbal/todo-list-app
+
+## Day 47 of 100 Days Of Code
+
+_Sunday 16th April_
+
+### Today's progress:
+
+- I created a blog post app that allows users to leave a comment.
+- I read more about how to structure a React app and some of the approaches to take when coding it.
+- I spent some time with fellow bootcampers trouble shooting code, and talking through what we had learnt.
+
+### Thoughts:
+
+I found today's task would have been really difficult without my plan from yesterday. The guidance for the task had a bottom up approach when coding out the components, I found this confusing and found a bottom down approach made more sense to me.
+This is where my plan really helped. I found myself referring back to it quite often in order to understand exactly what states/ props were required where.
+
+The form for the user input was the trickiest part for me. I had put the onSubmit function on the button but found that that did not work. After some googling I realised that the onSubmit function needed to go on the form tag. I also learnt about preventDefault() which stops the page refreshing when onSubmit is called.
+
+### Links to work / resources:
+
+https://github.com/SchoolOfCode/bc14_w5_recap-tasks-anjiqbal
