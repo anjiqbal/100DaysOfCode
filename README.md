@@ -778,3 +778,23 @@ My plan for the weekend is to start from scratch and create the app again.
 ### Links to work / resources:
 
 https://github.com/SchoolOfCode/bc14_w5d4_hackathon_react-athon-room1-anas-anjum-kunle-w5d1
+
+## Day 47 of 100 Days Of Code
+
+_Saturday 16th April_
+
+### Today's progress:
+
+- I re-did the to-do list app from scratch.
+- I spent some more time reading React docs.
+- I found I understood much more than I did yesterday.
+
+### Thoughts:
+
+Today I spent time recreating the to-do list app from scratch. I found this task incredibly beneficial in terms of cementing some of concepts I learned yesterday. Making mistakes and learning from them is really helping me to understand and avoid those mistakes again. All in all I found it far more straightforward to code the app today than I did yesterday.
+
+I also began planning out a blog post app. I created a detailed component tree that includes states, props and behaviour.
+
+### Links to work / resources:
+
+https://github.com/anjiqbal/todo-list-app
