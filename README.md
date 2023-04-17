@@ -819,3 +819,25 @@ The form for the user input was the trickiest part for me. I had put the onSubmi
 ### Links to work / resources:
 
 https://github.com/SchoolOfCode/bc14_w5_recap-tasks-anjiqbal
+
+## Day 48 of 100 Days Of Code
+
+## Week 6 - School of Code Bootcamp
+
+_Monday 17th April_
+
+### Today's progress:
+
+- I learnt about pure and impure functions
+- I learnt about side effects and how to deal with them using useEffect
+- I learnt how to implement useEffect to fetch data from an api.
+
+### Thoughts:
+
+Pure functions are predictable and always return the same output for a given input. It has no side effects and does not rely on any external data. An impure function modifies data outside of it's scope or has side effects such as HTTP requests and directly changing the DOM.
+
+I also learnt about useEffect and how it allows us to perform side effects in our comoponents. It takes a function as it's first argument and an array of dependencies as it's second argument. The dependencies tells React when the effect should be executed. If it is an empty array, it will execute once (on mount), otherwise it will execute whenever one of the dependecies change. If it is left out React will execute the effect everytime there is a re-render of the component.
+
+### Links to work / resources:
+
+https://github.com/SchoolOfCode/bc14_w6d1_workshop_useeffect-anjiqbal
