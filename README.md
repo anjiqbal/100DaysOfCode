@@ -841,3 +841,27 @@ I also learnt about useEffect and how it allows us to perform side effects in ou
 ### Links to work / resources:
 
 https://github.com/SchoolOfCode/bc14_w6d1_workshop_useeffect-anjiqbal
+
+## Day 49 of 100 Days Of Code
+
+## Week 6 - School of Code Bootcamp
+
+_Tuesday 18th April_
+
+### Today's progress:
+
+- I learnt about switch cases and how they are used in React in useReducer.
+- I learnt that useReducer separates logic which changes state from the components which use it. It also ensures that state can only be changed in an explicit number of ways.
+- I refactored a component that used useState to make it carry out the same functionality with useReducer.
+
+### Thoughts:
+
+Today's main focus was the useReducer hook. We began by looking at switch cases which I was quite familiar with. We also looked at finite state machines - I found this slightly confusing but as far as I understand it's just a system where particular inputs cause particular changes and anything that is not one of those inputs will not make a change.
+
+I refactored code that had implemented useState to now use useReducer. I found breaking the steps down helped. 1.Create the reducer function that deals with the logic separate to the component function 2. implement the component hook inside the component app 3. Use the dispatch function inside a button for example.
+
+I'm finding it slightly tricky to keep the thread of the different moving parts but I know with more practice and typing out the code a few more times, I'll have a more confident grasp of it.
+
+### Links to work / resources:
+
+https://github.com/SchoolOfCode/bc14_w6d2_workshop_usereducer-room-4-evangeline-chris-anjum
