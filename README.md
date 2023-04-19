@@ -865,3 +865,25 @@ I'm finding it slightly tricky to keep the thread of the different moving parts 
 ### Links to work / resources:
 
 https://github.com/SchoolOfCode/bc14_w6d2_workshop_usereducer-room-4-evangeline-chris-anjum
+
+## Day 50 of 100 Days Of Code
+
+## Week 6 - School of Code Bootcamp
+
+_Wednesday 19th April_
+
+### Today's progress:
+
+- I learnt about git branching - creating new branches, making changes, resolving conflicts and merging
+- I learnt about the React testing library - a lightweight testing library that can be used with a test runner such as Jest
+- I learnt about render and screen as well as some other matchers and queries
+
+### Thoughts:
+
+We spent the morning getting familiar with git branching. I learnt the git commands necessary to create new branches and how to navigate around them. I learned how to review pull requests, resolve conflicts, merge changes and delete branches. It is a very powerful tool that will help us immensely going into our projects next week.
+
+We also learnt more testing today - specifically how to test components built in React. It is always important to remember to write tests as if it was a user interacting with the app. We wrote tests using various matchers and queries. I found `screen.logTestingPlaygroundURL()` to be a very useful way of seeing what was happening.
+
+### Links to work / resources:
+
+https://github.com/SchoolOfCode/bc14_w6d3_workshop_react-testing-library-room-4-evangeline-chris-anjum
