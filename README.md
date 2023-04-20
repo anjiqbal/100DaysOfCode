@@ -887,3 +887,27 @@ We also learnt more testing today - specifically how to test components built in
 ### Links to work / resources:
 
 https://github.com/SchoolOfCode/bc14_w6d3_workshop_react-testing-library-room-4-evangeline-chris-anjum
+
+## Day 51 of 100 Days Of Code
+
+## Week 6 - School of Code Bootcamp
+
+_Thursday 20th April_
+
+### Today's progress:
+
+- I learnt about tools that will make working on our projects next week much smoother
+- I learnt more about agile methodology and how to apply it
+- I spent time working on an app that uses the Pokemon TCG API to build a place where a user can organise, filter and search for cards.
+
+### Thoughts:
+
+We covered a lot of prep today to ensure that our projects next week and our work as a team are as successfull as possible. This included learning about the mindset of working in teams that can progress, make decisions and work well together. We also learnt about project planning tools and more about the agile methodology.
+
+Today I made a start on something I have been wanting to build for a while - a place where a user can view, organise and sort Pokemon cards. Today was mainly set up. Although I do not need an API key, I learnt about the .env file and environment variables, how to store them and add them to a .gitignore file so that they are not public. I also linked to the API using the useEffect hook.
+
+![To do list gif](https://github.com/anjiqbal/PokeDeck/blob/main/images/Screenshot%202023-04-20%20172445.png)
+
+### Links to work / resources:
+
+https://github.com/anjiqbal/PokeDeck
