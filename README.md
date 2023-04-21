@@ -911,3 +911,49 @@ Today I made a start on something I have been wanting to build for a while - a p
 ### Links to work / resources:
 
 https://github.com/anjiqbal/PokeDeck
+
+## Day 52 of 100 Days Of Code
+
+## Week 6 - School of Code Bootcamp
+
+_Friday 21st April_
+
+### Today's progress:
+
+- Went through all of the planning stages needed to build an MVP - ideation, user story, MVP and stretch goals and component tree.
+- I understood to a deeper level the importance of user stories - if you build for everyone you are building for no one.
+- I used Postman to select an API and check whther it was active.
+
+### Thoughts:
+
+HACKATHON
+
+Today's hackathon task was to select an API and build an MVP. We chose a recipe API after first checking to see if it returned data using Postman. We then spent a considerable amount of time planning. I found this incredibly beneficial as it made me really put the user at the forefront of my mind when creating the app. We decided to build an app that would take in an ingredient and return recipes that use that ingredient. We didn't manage to complete our app but we were very close. I built on a lot of skills that I know will be useful going into project week
+
+### Links to work / resources:
+
+https://github.com/SchoolOfCode/bc14_w6d5_hackathon_react-athon-room-4-evangeline-chris-anjum
+
+## Day 53 of 100 Days Of Code
+
+_Saturday 22nd April_
+
+### Today's progress:
+
+-
+
+### Thoughts:
+
+### Links to work / resources:
+
+## Day 54 of 100 Days Of Code
+
+_Sunday 23rd April_
+
+### Today's progress:
+
+-
+
+### Thoughts:
+
+### Links to work / resources:
