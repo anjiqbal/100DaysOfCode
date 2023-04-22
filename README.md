@@ -940,20 +940,14 @@ _Saturday 22nd April_
 
 ### Today's progress:
 
--
+- More work on API's and extracting data
+- Read about how to convert objects to arrays
+- Added search functionality to my Pokemon app
 
 ### Thoughts:
 
-### Links to work / resources:
-
-## Day 54 of 100 Days Of Code
-
-_Sunday 23rd April_
-
-### Today's progress:
-
--
-
-### Thoughts:
+I spent some time working on my Pokemon project today. I added an input that allows a user to search for a particular Pokemon. I struggled with this the week before but found that it was far easier and more straightforward today.
 
 ### Links to work / resources:
+
+https://github.com/anjiqbal/PokeDeck
