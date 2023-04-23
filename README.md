@@ -906,7 +906,7 @@ We covered a lot of prep today to ensure that our projects next week and our wor
 
 Today I made a start on something I have been wanting to build for a while - a place where a user can view, organise and sort Pokemon cards. Today was mainly set up. Although I do not need an API key, I learnt about the .env file and environment variables, how to store them and add them to a .gitignore file so that they are not public. I also linked to the API using the useEffect hook.
 
-![To do list gif](https://github.com/anjiqbal/PokeDeck/blob/main/images/Screenshot%202023-04-20%20172445.png)
+![PokeDeck screenshot](https://github.com/anjiqbal/PokeDeck/blob/main/images/Screenshot%202023-04-20%20172445.png)
 
 ### Links to work / resources:
 
@@ -951,3 +951,23 @@ I spent some time working on my Pokemon project today. I added an input that all
 ### Links to work / resources:
 
 https://github.com/anjiqbal/PokeDeck
+
+## Day 54 of 100 Days Of Code
+
+_Sunday 23rd April_
+
+### Today's progress:
+
+- I added functionality to hackathon project that displays the meals after a user presses enter
+- I added functionality to hackathon project that allows a user to click on meal and see ingredients and recipe and if he clicks on it again it disappears
+- I spent a lot of time understanding states and how to use them in the above scenarios
+
+### Thoughts:
+
+I spent a large part of my time today completing our hackathon project. I worked on it step by step adding more functionality as I went. I found it confusing at times but was able to eventually make the app work as I wanted. I will go over the code again to cement my understanding of how it works.
+
+![Meat & Potatoes screenshot](https://github.com/anjiqbal/meat-and-potatoes/blob/main/meat_and_potatoes/images/meat_and_potatoes.png)
+
+### Links to work / resources:
+
+https://github.com/anjiqbal/meat-and-potatoes
