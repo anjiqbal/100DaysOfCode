@@ -971,3 +971,23 @@ I spent a large part of my time today completing our hackathon project. I worked
 ### Links to work / resources:
 
 https://github.com/anjiqbal/meat-and-potatoes
+
+## Day 54 of 100 Days Of Code
+
+## Week 7 - School of Code Bootcamp
+
+## Project Week
+
+_Monday 24th April_
+
+### Today's progress:
+
+- Given the task to solve an issue for someone on a coding bootcamp - we conducted user research and ideated and narrowed down an issue to solve
+- We woeked on our plans, wireframe and breaking tasks down using Trello
+- Conducted research into Front-end libraries such as Material UI and daya visualisation libraries
+
+### Thoughts:
+
+Day one of project week got off to a good start. We carried out user research and settled on creating an app for bootcampers that would help them keep track of their fitness. We used Disney ideation to go from dreamer to realist to critic with our ideas. We created user stories and then narrowed down the features we want in our MVP. I think we have hit a balance of not being too cautious without being too over ambitious. We have started work on wireframes and also started putting tasks up on Trello so tha we can keep track of what needs doing.
+
+### Links to work / resources:
