@@ -994,23 +994,45 @@ Day one of project week got off to a good start. We carried out user research an
 
 https://github.com/SchoolOfCode/bc14_w7_project-frontend-room1-ash-anjum-david-tom
 
-## Day 55 of 100 Days Of Code
+## Day 56 of 100 Days Of Code
 
 ## Week 7 - School of Code Bootcamp
 
 ## Project Week
 
-_Tuesay 25th April_
+_Tuesday 25th April_
 
 ### Today's progress:
 
 - Completed wireframes and component tree
 - Created backlog of work to be done on Trello and assigned tasks
-- completed initial setup of app nd began coding in pairs
+- completed initial setup of app and began coding in pairs
 
 ### Thoughts:
 
-I Feel really pleased with the progress we have made today and the stage we are at with our app. We have created all the components we need and added the basic code that each one will require. We then worked on adding functionality to our code. I worked with David today on our 'login page'. It is difficult in one sense as we have no backend so are unable to complete some things as we would if we did have a backend. We will need to hardcode our data but that is ok as long as we can make updates between renders and demonstrate those changes. Ther is plenty I am learning about the decision making progress amd really thinking about why we make the decisions we do. I am trying to keep a log of some of these as they are easily forgotten during the process of completing a project but I feel they are the interesting aspect of the project as they will be different for everyone.
+I Feel really pleased with the progress we have made today and the stage we are at with our app. We have created all the components we need and added the basic code that each one will require. We then worked on adding functionality to our code. I worked with David today on our 'login page'. It is difficult in one sense as we have no backend so are unable to complete some things as we would if we did have a backend. We will need to hardcode our data but that is ok as long as we can make updates between renders and demonstrate those changes. There is plenty I am learning about the decision making progress amd really thinking about why we make the decisions we do. I am trying to keep a log of some of these as they are easily forgotten during the process of completing a project but I feel they are the interesting aspect of the project as they will be different for everyone.
+
+### Links to work / resources:
+
+https://github.com/SchoolOfCode/bc14_w7_project-frontend-room1-ash-anjum-david-tom
+
+## Day 57 of 100 Days Of Code
+
+## Week 7 - School of Code Bootcamp
+
+## Project Week
+
+_Wednesday 26th April_
+
+### Today's progress:
+
+- I learned a little about the React router library
+- I wrote some user tests using React testing library
+- We came together as a team to discuss progress made and any adjustments we should make in our plan
+
+### Thoughts:
+
+Another productive day, getting the bulk of our MVP coded. We worked in pairs on different areas of functionality including linking up step counts with days, setting weekly goals and writing tests. We had decided on a number of milestones at which we would get together and discuss our progress. One of these was Wednesday afternoon. We talked about what we had managed to do and what we would need to put aside in order to have a complete MVP by the next day before lunch. This was a hugely beneficial discussion as it meant we would have time to complete our basic functionality to a high standard and have time to prepare for our presentations.
 
 ### Links to work / resources:
 
