@@ -1037,3 +1037,25 @@ Another productive day, getting the bulk of our MVP coded. We worked in pairs on
 ### Links to work / resources:
 
 https://github.com/SchoolOfCode/bc14_w7_project-frontend-room1-ash-anjum-david-tom
+
+## Day 58 of 100 Days Of Code
+
+## Week 7 - School of Code Bootcamp
+
+## Project Week
+
+_Thursday 27th April_
+
+### Today's progress:
+
+- I worked on my code reading skill by reading code written by team members in order to add further functionality
+- I worked on numerous bug fixes
+- We carried out a thorough retrosepective in order to plan our presentation
+
+### Thoughts:
+
+Today's code was mainly bug fixing and making sure the app would work for the user as intended. For example, making sure a user could only enter a number for the step count and weekly goal. We also worked on the CSS for the app. We had initially discussed using a frontend library but decided that the learning curve would be too great and as time was limited it was better to work with what we know. We spent the afternoon doing a retrospective and preparing for our presentation.
+
+### Links to work / resources:
+
+https://github.com/SchoolOfCode/bc14_w7_project-frontend-room1-ash-anjum-david-tom
