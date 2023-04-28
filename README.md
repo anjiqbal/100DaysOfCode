@@ -1059,3 +1059,25 @@ Today's code was mainly bug fixing and making sure the app would work for the us
 ### Links to work / resources:
 
 https://github.com/SchoolOfCode/bc14_w7_project-frontend-room1-ash-anjum-david-tom
+
+## Day 59 of 100 Days Of Code
+
+## Week 7 - School of Code Bootcamp
+
+## Project Week
+
+_Friday 28th April_
+
+### Today's progress:
+
+- I spent time refactoring code and making sure the user experience was as good as it could be given our time constraints
+- I presented our MVP as part of a team to industy judges
+- We conducted a retrospective on the project as a whole - what we did well, and what we could have done better
+
+### Thoughts:
+
+We spent some time this morning making sure our code worked as it should. We refactored some code and made some minor css changes. We then reviewd and rehearsed our presentation. We presented our MVP and our process to three industry judges. We first went throught our ideation and design process, we then talked about how we worked together and then presented the app. We also spoke about our key learning points from the week. We were then asked questions. The first was on whether we each coded every area of the app as well as taking part in the design process. We answered that we had designed together and we each participated in every area of the app. We were asked about how we ensured accessibility, we mentioned labels for inputs as well as the lighthouse test and that we are aware that this isn't a complete test. We were also asked about responsiveness.
+
+### Links to work / resources:
+
+https://github.com/SchoolOfCode/bc14_w7_project-frontend-room1-ash-anjum-david-tom
