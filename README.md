@@ -1081,3 +1081,23 @@ We spent some time this morning making sure our code worked as it should. We ref
 ### Links to work / resources:
 
 https://github.com/SchoolOfCode/bc14_w7_project-frontend-room1-ash-anjum-david-tom
+
+## Day 60 & 61 of 100 Days Of Code
+
+_Saturday 29th April_ _&_ _Sunday 30th April_
+
+### Today's progress:
+
+- Based on a comment a judge made on Friday about using an accessibility first approach, I did some reading and found some resources
+- I spent some time reflecting on project week and made notes on what I would do better next time
+- I solved some codewars katas
+
+### Thoughts:
+
+When presenting our project on Friday to the industry judges, one of the judges - Paul Hawxby - talked about how to ensure your app is inclusive and available for all by designing and developing with an accessibility first approach. I spent some time researching this appraoach and found some resources that will be really helpful. He also told us about testing your website on https://www.siteimprove.com/website-checker/ and also going through your site using a screen reader to really understand a user's experience. These are some things I will take forward into future projects.
+
+I will also make sure that for our future project, the team manifesto includes a focus on accessibility first. I will also include in the manifesto the importance of documenting decisions as we go, and assigning someone every day who will make a note of those decisions.
+
+### Links to work / resources:
+
+https://github.com/anjiqbal/codewars/commit/c0324476e919193e69b5fc80911fb379e2f3aa10
