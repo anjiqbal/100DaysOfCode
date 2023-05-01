@@ -1101,3 +1101,25 @@ I will also make sure that for our future project, the team manifesto includes a
 ### Links to work / resources:
 
 https://github.com/anjiqbal/codewars/commit/c0324476e919193e69b5fc80911fb379e2f3aa10
+
+## Day 62 of 100 Days Of Code
+
+## Week 8 - School of Code Bootcamp
+
+_Monday 1st May_
+
+### Today's progress:
+
+- Went over code from project week and made a start refactoring it
+- Completed a Codewars challenge and did some revision using Anki flashcards
+- Made a start with Kevin Powell's responsive layout course
+
+### Thoughts:
+
+Began today with a codewars challenge as it has been over a week since I had done one and find that they are a very useful way of learning new things and keeping syntax and problem solving skills at the forefront of my mind.
+
+I also spent time looking through our project code and made a start refactoring it and making sure I understand all aspects of it. I also began a course on responsive layouts as this is an area I feel I could improve in.
+
+### Links to work / resources:
+
+https://github.com/anjiqbal/codewars/blob/main/lvl6/multi-tap-keypad.js
