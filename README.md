@@ -1123,3 +1123,23 @@ I also spent time looking through our project code and made a start refactoring 
 ### Links to work / resources:
 
 https://github.com/anjiqbal/codewars/blob/main/lvl6/multi-tap-keypad.js
+
+## Day 63 of 100 Days Of Code
+
+## Week 8 - School of Code Bootcamp
+
+_Tuesday 2nd May_
+
+### Today's progress:
+
+- Carried out a thorough retrospective on our project sprint last week
+- Put together a study plan for areas that I feel I need to work on
+- Continued with responsive layout course and did some codewars
+
+### Thoughts:
+
+Today we discussed different aspects of our project and the areas where we felt we did well and areas where we could have done better. It was useful to discuss this with the team after having reflected on this myself over the weekend. I also put together a plan for topics I want to cover this week as we have some time to do some self study. I plan on continuuing with the CSS course I began as well as getting some React practice by adding more to my project.
+
+### Links to work / resources:
+
+https://github.com/anjiqbal/codewars/commit/8729d65aa68a0e82b0e3ee4221b1bb4b250a8e21
