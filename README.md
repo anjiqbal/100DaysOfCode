@@ -1143,3 +1143,23 @@ Today we discussed different aspects of our project and the areas where we felt 
 ### Links to work / resources:
 
 https://github.com/anjiqbal/codewars/commit/8729d65aa68a0e82b0e3ee4221b1bb4b250a8e21
+
+## Day 64 of 100 Days Of Code
+
+## Week 8 - School of Code Bootcamp
+
+_Wednesday 3rd May_
+
+### Today's progress:
+
+- Employability session - worked on our LinkedIn profiles and learnt more about the support SoC provides
+- Solved a number of CodeWars katas in our team
+- Worked after hours with another bootcamper on PokeDeck app
+
+### Thoughts:
+
+We spent the morning learning more about the support SoC provides and working on our LinkedIn profiles. We had more time today following our own learning plans. I ended up doing a few codewars challenges with this week's team and found it really useful. Also made a very small start on a wireframe for my PokeDeck app. I was also joined after hours by Sam who wanted to join me in working on my PokeDeck app, it's really great to have another person on board. I'm excited to see where we go with it.
+
+### Links to work / resources:
+
+https://github.com/anjiqbal/codewars/commit/3cd0047861fff8ca2a718b28a15eacc215ba385a
