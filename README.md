@@ -1163,3 +1163,25 @@ We spent the morning learning more about the support SoC provides and working on
 ### Links to work / resources:
 
 https://github.com/anjiqbal/codewars/commit/3cd0047861fff8ca2a718b28a15eacc215ba385a
+
+## Day 65 of 100 Days Of Code
+
+## Week 8 - School of Code Bootcamp
+
+_Thursday 4th May_
+
+### Today's progress:
+
+- Employability session - worked on my CV and made it relevant to the tech industry
+- Solved a number of CodeWars katas in our team
+- Worked on CSS layouts and wireframe for PokeDeck project
+
+### Thoughts:
+
+We solved somee tricky codewars challenges today and used the array methods some and every. Something interesting I came across was initialising a variable that should store the highest number from an array to -Infinity. I had not come across this before but found it an interesting way of solving the problem. I knew I couldn't initialise it to 0 as the array included negative numbers so this was a clever way around that problem.
+
+Also spent some time working on CSS and wireframes. The basic wireframes are complete and we are ready to start adding more code to the project during tomorrows session after SoC.
+
+### Links to work / resources:
+
+https://github.com/anjiqbal/codewars/commit/96f90ed0a2e2046314f45ae764d079218ef467d6
