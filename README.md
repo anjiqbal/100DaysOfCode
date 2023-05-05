@@ -1185,3 +1185,27 @@ Also spent some time working on CSS and wireframes. The basic wireframes are com
 ### Links to work / resources:
 
 https://github.com/anjiqbal/codewars/commit/96f90ed0a2e2046314f45ae764d079218ef467d6
+
+## Day 66 of 100 Days Of Code
+
+## Week 8 - School of Code Bootcamp
+
+_Friday 5th May_
+
+### Today's progress:
+
+- Consolidated skills we've been working on so far by building the front-end side of an e-commerce site
+- Used Material UI to render a rating component
+- Worked on PoleDeck app after hours with Sam
+
+### Thoughts:
+
+Hackathon
+
+We were tasked with creating the front-end of an e-commerce site that was populated with data from an API. We struggled to begin with as we had a GitHub issue and found that we had lost an hour and a half's work. Once we sorted this issue out we began working on our project. We approched the project with basic CSS first which is an approach I haven't used before. We also used Material UI which was new to me. We used this to render the rating component which displayed the star rating for each product.
+
+Also spent some time working on PokeDeck project. We used React Router to set up the routes so that when the search button is pressed it takes you to another page that will then display the cards. We struggled to pass the state to the page so although we were able to navigate to a different page, the cards were not displaying. I will do some research and hopefully figure out where we are going weong.
+
+### Links to work / resources:
+
+https://github.com/SchoolOfCode/bc14_w8d5_hackathon_frontend-room_4_mia_callum_anjum
