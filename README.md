@@ -1209,3 +1209,23 @@ Also spent some time working on PokeDeck project. We used React Router to set up
 ### Links to work / resources:
 
 https://github.com/SchoolOfCode/bc14_w8d5_hackathon_frontend-room_4_mia_callum_anjum
+
+## Day 67 & 68 of 100 Days Of Code
+
+_Saturday 6th May_ _&_ _Sunday 7th May_
+
+### Today's progress:
+
+- Worked on Friday's hackathon project by adding search functionality
+- Worked on the CSS for the hackathon project by redoing it all again and making it responsive
+- Spent some time going over React concepts that don't feel so strong for me and going over CSS grid and flexbox
+
+### Thoughts:
+
+Most of my work this weekend was on the hackathon project. I made my own copy of the repo and spent some time working on it to make it look how I would like as well as making it responsive.
+
+I spent a lot of time on CSS this weekend. I still don't feel confident with grid and flexbox and definitely benefitted from the practice. I also added the ability to search for specific items within the store data. This was trickier than I initially expected and so I had to change my initial approach. I ended up adding more state to the App component and adding another useEffect that would trigger on change to the search term state. I spent some time going over this code again to make sure I understand each aspect.
+
+### Links to work / resources:
+
+https://github.com/anjiqbal/gorilla-store
