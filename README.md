@@ -1196,7 +1196,7 @@ _Friday 5th May_
 
 - Consolidated skills we've been working on so far by building the front-end side of an e-commerce site
 - Used Material UI to render a rating component
-- Worked on PoleDeck app after hours with Sam
+- Worked on PokeDeck app after hours with Sam
 
 ### Thoughts:
 
@@ -1204,7 +1204,7 @@ Hackathon
 
 We were tasked with creating the front-end of an e-commerce site that was populated with data from an API. We struggled to begin with as we had a GitHub issue and found that we had lost an hour and a half's work. Once we sorted this issue out we began working on our project. We approched the project with basic CSS first which is an approach I haven't used before. We also used Material UI which was new to me. We used this to render the rating component which displayed the star rating for each product.
 
-Also spent some time working on PokeDeck project. We used React Router to set up the routes so that when the search button is pressed it takes you to another page that will then display the cards. We struggled to pass the state to the page so although we were able to navigate to a different page, the cards were not displaying. I will do some research and hopefully figure out where we are going weong.
+Also spent some time working on PokeDeck project. We used React Router to set up the routes so that when the search button is pressed it takes you to another page that will then display the cards. We struggled to pass the state to the page so although we were able to navigate to a different page, the cards were not displaying. I will do some research and hopefully figure out where we are going wrong.
 
 ### Links to work / resources:
 
@@ -1229,3 +1229,29 @@ I spent a lot of time on CSS this weekend. I still don't feel confident with gri
 ### Links to work / resources:
 
 https://github.com/anjiqbal/gorilla-store
+
+## Day 69 of 100 Days Of Code
+
+## Week 9 - School of Code Bootcamp
+
+## Bank holiday
+
+_Monday 8th May_
+
+### Today's progress:
+
+- Added more React and CSS flashcards to Anki
+- Spent time going over code that I don't fell 100% confident with and asking ChatGPT to explain it
+- Watched an intro to Node.js tutorial video
+
+### Thoughts:
+
+I spent more time on revision today. I felt it was important that I feel confident with the front-end now that we are moving to the back-end this week.
+
+I made good use of ChatGPT today by asking for explanantions for some code line by line. When I felt that I still had questions, I asked for further explanations and examples. I find this conversational, questioning style of learning works really well with ChatGPT and it helps solve some of those often very simple questions that you sometimes have but that would be difficult to Google.
+
+I also watched a tutorial on Node so that when we begin back-end tomorrow it won't be totally unfamiliar. I'm looking forward to getting stuck in over the next few weeks.
+
+### Links to work / resources:
+
+https://github.com/anjiqbal/codewars/blob/main/lvl6/odd-heavy-array.js
