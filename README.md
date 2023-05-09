@@ -10,7 +10,7 @@ _Monday 13th March_
 
 - I learnt about computational thinking and problem solving as key skills - just as important (if not more!) than knowing how to code.
 - I learnt about agile ways of developing and the importance of early feedback.
-- I spent some time at then end of the day going over today's notesas well as anki review.
+- I spent some time at then end of the day going over today's notes as well as anki review.
 - Completed a codewars challenge.
 
 ### Thoughts:
@@ -48,7 +48,7 @@ The more rigorous, systematic way of breaking down the codewars problem was real
 #### School of Code
 
 I'm enjoying working with my partner for the week, Bernard Molyneux. The process of sharing ideas and articulating my thoughts has already been incredibly valuable to me and I feel myself gaining confidence.
-The approach to problem solving and making sure you really understand what it is that you are trying to solve is surprisingly challenging but is obviously very neccessary. I realise now that while I thought I had a systematic approach to finding solutions, actually I was still rushing in to code
+The approach to problem solving and making sure you really understand what it is that you are trying to solve is surprisingly challenging but is obviously very necessary. I realise now that while I thought I had a systematic approach to finding solutions, actually I was still rushing in to code
 
 ### Links to work / resources:
 
@@ -85,15 +85,15 @@ _Thursday 16th March_
 
 - Revised objects, creating objects and accessing properties using dot notation and square brackets
 - Revised arrays, creating arrays, nested arrays, arrays of objects and looping over arrays
-- Used git and github to successfully share files with my partner and worl collaboratively to complete the tasks assigned in the workshop. We has some time leftover so we played around with some array methods
+- Used git and github to successfully share files with my partner and work collaboratively to complete the tasks assigned in the workshop. We has some time leftover so we played around with some array methods
 
 ### Thoughts:
 
-SoC morning session covered the importance of giving and receiving feedback and how valubable it is for growth. I found this session interesting as it made me think about how I give feedback and reminded me that the goal is not to expect someone to change. It also reminded me that receiving feedback is an opportunity for growth.
+SoC morning session covered the importance of giving and receiving feedback and how valuable it is for growth. I found this session interesting as it made me think about how I give feedback and reminded me that the goal is not to expect someone to change. It also reminded me that receiving feedback is an opportunity for growth.
 
 Today's codewars kata was on the topic of manipulating a number using array methods to expand it e.g. 306 -> '300 + 6'
 My first approach did not work as expected as I used the array method map() which was not skipping over the zeroes as I expected but instead
-returning undefined. I then used to filter() to remove the zeroes but this also presented a probelem as the index was important because of place value.
+returning undefined. I then used to filter() to remove the zeroes but this also presented a problem as the index was important because of place value.
 
 <img src="https://github.com/anjiqbal/100DaysOfCode/blob/main/images/16.3.2023.2CW.png" alt="code snippet" />
 
@@ -119,9 +119,9 @@ _Friday 17th March_
 
 ### Thoughts:
 
-Today's mentor meeting was incredibly informative. I learnt a lot about how to go about breaking problems down and making plans, and what that means in a practical sense. It means that other people can read your code and undrestand what it is that you are doing and what it is that you are trying to do. This is especially important within teams where people can move from project to project multiple times - even in one day.
+Today's mentor meeting was incredibly informative. I learnt a lot about how to go about breaking problems down and making plans, and what that means in a practical sense. It means that other people can read your code and understand what it is that you are doing and what it is that you are trying to do. This is especially important within teams where people can move from project to project multiple times - even in one day.
 
-The hackathon involved creating a game of rock paper scissors. We managed to complete most of it. The key lesson I learnt was on collaborating with others and working together throught making a plan, pair programming and sharing via GitHub.
+The hackathon involved creating a game of rock paper scissors. We managed to complete most of it. The key lesson I learnt was on collaborating with others and working together through making a plan, pair programming and sharing via GitHub.
 
 ### Links to work / resources:
 
@@ -139,7 +139,7 @@ _Saturday 18th March_
 
 ### Thoughts:
 
-As I had more time today I decided to attempt a level 5 kata and appproach it in the way that SoC have taught over the past week. I made a thorough plan and broke each section down. When unsure I put in what I thought a possible appraoch may be. I found that breaking everything down in such detail made the parts I understood far more straightforward to code. With the parts that I didn't understand, it was easy to see what I needed to search for.
+As I had more time today I decided to attempt a level 5 kata and approach it in the way that SoC have taught over the past week. I made a thorough plan and broke each section down. When unsure I put in what I thought a possible approach may be. I found that breaking everything down in such detail made the parts I understood far more straightforward to code. With the parts that I didn't understand, it was easy to see what I needed to search for.
 
 <img src='https://github.com/anjiqbal/100DaysOfCode/blob/main/images/18-3-2023-plan.svg' />
 
@@ -194,7 +194,7 @@ _Monday 20th March_
 
 We covered a lot today regarding the DOM and how to manipulate it. I found it incredibly useful to be able to work through the assigned tasks in a group as we could discuss and plan together and then tackle the tasks. I found it useful to research how to use certain methods, for example removeChild.
 
-Today's codewars challenge was regarding manipulating strings. Part of the challenge was to leave certain words lowercase. These words were passed in as a string as the second argument. However this argument was optional. Initilaly, when this second argument was not passed, I was getting errrors. I realised that I could overcome these errors by setting the default value of that parameter as an empty string instead of using if statements to check.
+Today's codewars challenge was regarding manipulating strings. Part of the challenge was to leave certain words lowercase. These words were passed in as a string as the second argument. However this argument was optional. Initially, when this second argument was not passed, I was getting errrors. I realised that I could overcome these errors by setting the default value of that parameter as an empty string instead of using if statements to check.
 
 ```
 function titleCase(title, minorWords = '')
@@ -251,7 +251,7 @@ Codewars had me stumped for a while this morning but I realised after putting so
 
 JavaScript is single-threaded but asynchronous functions allow it to behave like it is multi-threaded and non-blocking. The event loop organises the order in which code is executed.
 
-API's can be accessed using the fetch method. Fetch is asynchronous and returns a promise. We need to wait for the promise to resolve or reject before we can do anything with it. Using the async keyword before the function and then await within the function allows us to wait for the promise to resolve withoult blocking the rest of the code.
+API's can be accessed using the fetch method. Fetch is asynchronous and returns a promise. We need to wait for the promise to resolve or reject before we can do anything with it. Using the async keyword before the function and then await within the function allows us to wait for the promise to resolve without blocking the rest of the code.
 
 ### Links to work / resources:
 
@@ -290,7 +290,7 @@ _Friday 24th March_
 ### Today's progress:
 
 - Researched APIs as a team, chose one and made a plan for what to build.
-- Used the fetch method as well as async and await to get data from the API and ectracted what we needed.
+- Used the fetch method as well as async and await to get data from the API and extracted what we needed.
 - Built a simple web app that takes user input and responds with data from the API.
 
 ### Thoughts:
@@ -315,7 +315,7 @@ _Saturday 25th March_
 
 ### Thoughts:
 
-Today was a busy day so I didnt't manage to get as much coding done as I would have liked.
+Today was a busy day so I didn't manage to get as much coding done as I would have liked.
 
 I completed a codewars challenge that involved adding methods to the Array prototype. Allowed me to get some more understanding of the this keyword.
 
@@ -361,7 +361,7 @@ _Monday 27th March_
 
 ### Thoughts:
 
-I learnt more about the agile methodology, it's core values and a little of the history and how it first came about. I did some further reseearch on the Atlassian website. I think fundamentally it is a process that involves understanding, collaborating, learning and staying flexible and gives you the ability to deliver value to customers far quicker.
+I learnt more about the agile methodology, it's core values and a little of the history and how it first came about. I did some further research on the Atlassian website. I think fundamentally it is a process that involves understanding, collaborating, learning and staying flexible and gives you the ability to deliver value to customers far quicker.
 
 I spent some time working on a previous project - rps game. I added further functionality to it by allowing the user to pick 3/5/7 games, the winner being the one who wins the most. I applied what I learnt today on CSSGrid and Flexbox to the styling of the game.
 
@@ -409,7 +409,7 @@ _Wednesday 29th March_
 
 ### Thoughts:
 
-I found the discussions around accessiblity very interesting today. The lighthouse audit is a very useful tool to not only see how your webiste performs but alos how accessible it is.
+I found the discussions around accessibility very interesting today. The lighthouse audit is a very useful tool to not only see how your website performs but als how accessible it is.
 
 I need to spend more time on Figma and practice how to build a wireframe. I feel it will be a really useful tool to help me build my own projects.
 
@@ -433,7 +433,7 @@ _Thursday 30th March_
 
 ### Thoughts:
 
-Accessibility is such a large topic with so many tools and tips out there to ensure we incorporate it into our design that we should never leave it as an afterthought. Presenting what we found in our research is a really useful task as it allows you to distill what you have learnt into a short succinct summary so that your team can quickly understand what you discovered.
+Accessibility is such a large topic with so many tools and tips out there to ensure we incorporate it into our design that we should never leave it as an afterthought. Presenting what we found in our research is a really useful task as it allows you to distil what you have learnt into a short succinct summary so that your team can quickly understand what you discovered.
 
 I spent some time once School of Code was over continuing to work on my BBC clone site. It's been really useful in building up my CSS skills. Still a long way to go but definitely feel I understand CSSGrid a lot better.
 
@@ -457,7 +457,7 @@ _Friday 31st March_
 
 ### Thoughts:
 
-Today's challenge for the hackathon was to apply all we had learnt over the week to build a landing page for our bootcamp. This involved going over our user personas and stories, working through our user journey flow diagram and then creating a wireframe that would keep our user at the forefront of our desiggn. We then went on to create a plan for our HTML and CSS. The rest of our day was spent working on our landing page through pair-programming. We were able to work really well together and got a lot done. We didn't manage to complete the HTML and CSS for our design but I am hoping to do that over the weekend.
+Today's challenge for the hackathon was to apply all we had learnt over the week to build a landing page for our bootcamp. This involved going over our user personas and stories, working through our user journey flow diagram and then creating a wireframe that would keep our user at the forefront of our design. We then went on to create a plan for our HTML and CSS. The rest of our day was spent working on our landing page through pair-programming. We were able to work really well together and got a lot done. We didn't manage to complete the HTML and CSS for our design but I am hoping to do that over the weekend.
 
 ### Links to work / resources:
 
@@ -479,7 +479,7 @@ _Saturday 1st April_
 
 The logic of today's codewars kata was quite challenging. I needed to throw an error if the argument was false but return an empty array if the argument was '0' or 0. I had to arrange the conditions in a way that satisfied all the requirements - I mostly did this with trial and error.
 
-I spent a few hours today completing yesterday's hackathon. I finished off the section we were woeking on and added two more and a footer. I really enjoyed it as I got some more Flexbox and CSS practice.
+I spent a few hours today completing yesterday's hackathon. I finished off the section we were working on and added two more and a footer. I really enjoyed it as I got some more Flexbox and CSS practice.
 
 I went over my code and made sure that the HTML tags were all chosen for their semantic meaning, I also went over my CSS and made sure it was well organised and that I reused classes when it made sense.
 
@@ -499,7 +499,7 @@ _Sunday 2nd April_
 
 ### Thoughts:
 
-I had a busy life day today so didn;#'t get as much coding done as I would ordinarily. It was interesting to learn how to test JavaScript code and how to write those tests. Looking forward to learning more about this topic and getting more familiar with Node.
+I had a busy life day today so didn't get as much coding done as I would ordinarily. It was interesting to learn how to test JavaScript code and how to write those tests. Looking forward to learning more about this topic and getting more familiar with Node.
 
 ### Links to work / resources:
 
@@ -521,7 +521,7 @@ _Monday 3rd April_
 
 I really enjoyed learning about Node.js today. I learnt many new commands for the command line, including how to add and run an npm script. I learnt about EMS which I did further research on and found it is the syntax and rules by which we can import and export modules by. It also allows us to import from anywhere in the code as long as we do so asynchronously and not just from the top of the file
 
-I spent some time after SoC practicing some more using learn your node. I also did a codewars challenge.
+I spent some time after SoC practising some more using learn your node. I also did a codewars challenge.
 
 ### Links to work / resources:
 
@@ -564,12 +564,12 @@ _Wednesday 5th April_
 ### Today's progress:
 
 - I learnt about end to end testing - testing the whole app or project.
-- I spent time reading and understanding the documentaion for Playwright - the tool we are using to carry out our e2e tests.
+- I spent time reading and understanding the documentation for Playwright - the tool we are using to carry out our e2e tests.
 - I wrote e2e tests for a simple to-do list app
 
 ### Thoughts:
 
-Today was a super interesting day. I really enjoyed learning how to write tests to simulate a user interacting with an app. It did take trial and error and spending a lot of time with the documention. We were able to write a test that checked that the page loaded, that the input could be typed into, that when the button was clicked the item appeared underneath and the same for when enter was pressed. We were also able to check that the text that was input matched the text in the list of to-do's.
+Today was a super interesting day. I really enjoyed learning how to write tests to simulate a user interacting with an app. It did take trial and error and spending a lot of time with the documentation. We were able to write a test that checked that the page loaded, that the input could be typed into, that when the button was clicked the item appeared underneath and the same for when enter was pressed. We were also able to check that the text that was input matched the text in the list of to-do's.
 
 In the evening, I spent some more time watching some videos on writing tests to get a deeper understanding.
 
@@ -583,7 +583,7 @@ _Thursday 6th April_
 
 ### Today's progress:
 
-- I learnt how to use the debuggging tool when running tests.
+- I learnt how to use the debugging tool when running tests.
 - I wrote tests as part of a team using Playwright.
 - I did a presentation on my learning today.
 
@@ -593,7 +593,7 @@ Today's mindset session at SoC was an interesting one about our inner critic and
 
 We has a shorter hackathon today due to the bank holiday tomorrow. It was really useful to apply what I learned yesterday about end to end testing on today's hackathon. I found that the code we were writing today was already better than what we did yesterday. Watching the videos yesterday evening definitely helped.
 
-The dubugging tool also came in handy to go through the code step by step. I was also able to share how to use this with team members.
+The debugging tool also came in handy to go through the code step by step. I was also able to share how to use this with team members.
 
 ### Links to work / resources:
 
@@ -608,12 +608,12 @@ _Friday 7th April_
 ### Today's progress:
 
 - Bank holiday today so no Soc - Codewars challenge on ASCII art - creating a diamond of a given length.
-- Created my own Codewars challene. Tested expected outcomes using Jest.
+- Created my own Codewars challenge. Tested expected outcomes using Jest.
 - I started learning React - what it is used for and some basics
 
 ### Thoughts:
 
-I got close to solving today's challenge but found myself stuck towards the end. I wa able to vreate the first half of the diamond but not the rest. I asked ChatGPT for help and was able to correctly recreate a diamond. I made sure to then delete the code and write it out agian so I could understand an learn from it.
+I got close to solving today's challenge but found myself stuck towards the end. I wa able to create the first half of the diamond but not the rest. I asked ChatGPT for help and was able to correctly recreate a diamond. I made sure to then delete the code and write it out again so I could understand an learn from it.
 
 I also created my own Codewars challenge. I did this by first creating an idea of what I want to do, I then wrote out a plan of the tests that I would need. I then created the tests but I found this a bit tricky without having the function code. I think test driven development will take some practice, but it a was a very interesting exercise.
 
@@ -687,7 +687,7 @@ _Tuesday 11th April_
 
 - React is a JS library that allows us to create highly performant user interfaces by creating UI components.
 - The virtual DOM is a representation of UI kept in memory. It compares its current state with the actual DOM and makes changes and updates accordingly.
-- We create components using functions - each component shoul do one thing(the single responsibility principle)
+- We create components using functions - each component should do one thing(the single responsibility principle)
 
 ### Thoughts:
 
@@ -736,7 +736,7 @@ _Thursday 13th April_
 ### Today's progress:
 
 - Mindset session covering different ways to come to a decision as a team.
-- I learnt abouta immutability and why that's important especially when using states in React
+- I learnt about a immutability and why that's important especially when using states in React
 - Used the spread operator and the map, filter and slice array method to understand how to make changes immutably
 
 ### Thoughts:
@@ -769,7 +769,7 @@ HACKATHON
 
 Today's hackathon challenge was to create a todo list app that would allow us to add a to do to a list, display the list of todos and then delete something off the todo list if the delete button was pressed.
 
-We began by creating a plan and a component tree diagram that would show us where we needed to set states and which component would be passed props. I struggle a bit with the planning of an app such as this and the creating of a component tree diagram as I find I'm not certain about what I need to use and pass down until we start coding. I am getting better at this and think it's just a acase of vreating more React apps to understand the flow a little better.
+We began by creating a plan and a component tree diagram that would show us where we needed to set states and which component would be passed props. I struggle a bit with the planning of an app such as this and the creating of a component tree diagram as I find I'm not certain about what I need to use and pass down until we start coding. I am getting better at this and think it's just a a case of creating more React apps to understand the flow a little better.
 
 We found at first that the way that made sense to us was to create a separate file that would contain our todo's in an array. This was because we were unsure how to pass the todo item over to the list component when they were on the same level (not parent/child). We quickly realised that we needed useState to create and array and keep track of it. We were able to code the add button but didn't have time to complete the app.
 
@@ -836,7 +836,7 @@ _Monday 17th April_
 
 Pure functions are predictable and always return the same output for a given input. It has no side effects and does not rely on any external data. An impure function modifies data outside of it's scope or has side effects such as HTTP requests and directly changing the DOM.
 
-I also learnt about useEffect and how it allows us to perform side effects in our comoponents. It takes a function as it's first argument and an array of dependencies as it's second argument. The dependencies tells React when the effect should be executed. If it is an empty array, it will execute once (on mount), otherwise it will execute whenever one of the dependecies change. If it is left out React will execute the effect everytime there is a re-render of the component.
+I also learnt about useEffect and how it allows us to perform side effects in our components. It takes a function as it's first argument and an array of dependencies as it's second argument. The dependencies tells React when the effect should be executed. If it is an empty array, it will execute once (on mount), otherwise it will execute whenever one of the dependencies change. If it is left out React will execute the effect every time there is a re-render of the component.
 
 ### Links to work / resources:
 
@@ -902,7 +902,7 @@ _Thursday 20th April_
 
 ### Thoughts:
 
-We covered a lot of prep today to ensure that our projects next week and our work as a team are as successfull as possible. This included learning about the mindset of working in teams that can progress, make decisions and work well together. We also learnt about project planning tools and more about the agile methodology.
+We covered a lot of prep today to ensure that our projects next week and our work as a team are as successful as possible. This included learning about the mindset of working in teams that can progress, make decisions and work well together. We also learnt about project planning tools and more about the agile methodology.
 
 Today I made a start on something I have been wanting to build for a while - a place where a user can view, organise and sort Pokemon cards. Today was mainly set up. Although I do not need an API key, I learnt about the .env file and environment variables, how to store them and add them to a .gitignore file so that they are not public. I also linked to the API using the useEffect hook.
 
@@ -922,7 +922,7 @@ _Friday 21st April_
 
 - Went through all of the planning stages needed to build an MVP - ideation, user story, MVP and stretch goals and component tree.
 - I understood to a deeper level the importance of user stories - if you build for everyone you are building for no one.
-- I used Postman to select an API and check whther it was active.
+- I used Postman to select an API and check whether it was active.
 
 ### Thoughts:
 
@@ -983,8 +983,8 @@ _Monday 24th April_
 ### Today's progress:
 
 - Given the task to solve an issue for someone on a coding bootcamp - we conducted user research and ideated and narrowed down an issue to solve
-- We woeked on our plans, wireframe and breaking tasks down using Trello
-- Conducted research into Front-end libraries such as Material UI and daya visualisation libraries
+- We worked on our plans, wireframe and breaking tasks down using Trello
+- Conducted research into Front-end libraries such as Material UI and data visualisation libraries
 
 ### Thoughts:
 
@@ -1050,7 +1050,7 @@ _Thursday 27th April_
 
 - I worked on my code reading skill by reading code written by team members in order to add further functionality
 - I worked on numerous bug fixes
-- We carried out a thorough retrosepective in order to plan our presentation
+- We carried out a thorough retrospective in order to plan our presentation
 
 ### Thoughts:
 
@@ -1071,12 +1071,12 @@ _Friday 28th April_
 ### Today's progress:
 
 - I spent time refactoring code and making sure the user experience was as good as it could be given our time constraints
-- I presented our MVP as part of a team to industy judges
+- I presented our MVP as part of a team to industry judges
 - We conducted a retrospective on the project as a whole - what we did well, and what we could have done better
 
 ### Thoughts:
 
-We spent some time this morning making sure our code worked as it should. We refactored some code and made some minor css changes. We then reviewd and rehearsed our presentation. We presented our MVP and our process to three industry judges. We first went throught our ideation and design process, we then talked about how we worked together and then presented the app. We also spoke about our key learning points from the week. We were then asked questions. The first was on whether we each coded every area of the app as well as taking part in the design process. We answered that we had designed together and we each participated in every area of the app. We were asked about how we ensured accessibility, we mentioned labels for inputs as well as the lighthouse test and that we are aware that this isn't a complete test. We were also asked about responsiveness.
+We spent some time this morning making sure our code worked as it should. We refactored some code and made some minor css changes. We then reviewed and rehearsed our presentation. We presented our MVP and our process to three industry judges. We first went through our ideation and design process, we then talked about how we worked together and then presented the app. We also spoke about our key learning points from the week. We were then asked questions. The first was on whether we each coded every area of the app as well as taking part in the design process. We answered that we had designed together and we each participated in every area of the app. We were asked about how we ensured accessibility, we mentioned labels for inputs as well as the lighthouse test and that we are aware that this isn't a complete test. We were also asked about responsiveness.
 
 ### Links to work / resources:
 
@@ -1094,7 +1094,7 @@ _Saturday 29th April_ _&_ _Sunday 30th April_
 
 ### Thoughts:
 
-When presenting our project on Friday to the industry judges, one of the judges - Paul Hawxby - talked about how to ensure your app is inclusive and available for all by designing and developing with an accessibility first approach. I spent some time researching this appraoach and found some resources that will be really helpful. He also told us about testing your website on https://www.siteimprove.com/website-checker/ and also going through your site using a screen reader to really understand a user's experience. These are some things I will take forward into future projects.
+When presenting our project on Friday to the industry judges, one of the judges - Paul Hawxby - talked about how to ensure your app is inclusive and available for all by designing and developing with an accessibility first approach. I spent some time researching this approach and found some resources that will be really helpful. He also told us about testing your website on https://www.siteimprove.com/website-checker/ and also going through your site using a screen reader to really understand a user's experience. These are some things I will take forward into future projects.
 
 I will also make sure that for our future project, the team manifesto includes a focus on accessibility first. I will also include in the manifesto the importance of documenting decisions as we go, and assigning someone every day who will make a note of those decisions.
 
@@ -1138,7 +1138,7 @@ _Tuesday 2nd May_
 
 ### Thoughts:
 
-Today we discussed different aspects of our project and the areas where we felt we did well and areas where we could have done better. It was useful to discuss this with the team after having reflected on this myself over the weekend. I also put together a plan for topics I want to cover this week as we have some time to do some self study. I plan on continuuing with the CSS course I began as well as getting some React practice by adding more to my project.
+Today we discussed different aspects of our project and the areas where we felt we did well and areas where we could have done better. It was useful to discuss this with the team after having reflected on this myself over the weekend. I also put together a plan for topics I want to cover this week as we have some time to do some self study. I plan on continuing with the CSS course I began as well as getting some React practice by adding more to my project.
 
 ### Links to work / resources:
 
@@ -1178,7 +1178,7 @@ _Thursday 4th May_
 
 ### Thoughts:
 
-We solved somee tricky codewars challenges today and used the array methods some and every. Something interesting I came across was initialising a variable that should store the highest number from an array to -Infinity. I had not come across this before but found it an interesting way of solving the problem. I knew I couldn't initialise it to 0 as the array included negative numbers so this was a clever way around that problem.
+We solved some tricky codewars challenges today and used the array methods some and every. Something interesting I came across was initialising a variable that should store the highest number from an array to -Infinity. I had not come across this before but found it an interesting way of solving the problem. I knew I couldn't initialise it to 0 as the array included negative numbers so this was a clever way around that problem.
 
 Also spent some time working on CSS and wireframes. The basic wireframes are complete and we are ready to start adding more code to the project during tomorrows session after SoC.
 
@@ -1202,7 +1202,7 @@ _Friday 5th May_
 
 Hackathon
 
-We were tasked with creating the front-end of an e-commerce site that was populated with data from an API. We struggled to begin with as we had a GitHub issue and found that we had lost an hour and a half's work. Once we sorted this issue out we began working on our project. We approched the project with basic CSS first which is an approach I haven't used before. We also used Material UI which was new to me. We used this to render the rating component which displayed the star rating for each product.
+We were tasked with creating the front-end of an e-commerce site that was populated with data from an API. We struggled to begin with as we had a GitHub issue and found that we had lost an hour and a half's work. Once we sorted this issue out we began working on our project. We approached the project with basic CSS first which is an approach I haven't used before. We also used Material UI which was new to me. We used this to render the rating component which displayed the star rating for each product.
 
 Also spent some time working on PokeDeck project. We used React Router to set up the routes so that when the search button is pressed it takes you to another page that will then display the cards. We struggled to pass the state to the page so although we were able to navigate to a different page, the cards were not displaying. I will do some research and hopefully figure out where we are going wrong.
 
@@ -1224,7 +1224,7 @@ _Saturday 6th May_ _&_ _Sunday 7th May_
 
 Most of my work this weekend was on the hackathon project. I made my own copy of the repo and spent some time working on it to make it look how I would like as well as making it responsive.
 
-I spent a lot of time on CSS this weekend. I still don't feel confident with grid and flexbox and definitely benefitted from the practice. I also added the ability to search for specific items within the store data. This was trickier than I initially expected and so I had to change my initial approach. I ended up adding more state to the App component and adding another useEffect that would trigger on change to the search term state. I spent some time going over this code again to make sure I understand each aspect.
+I spent a lot of time on CSS this weekend. I still don't feel confident with grid and flexbox and definitely benefited from the practice. I also added the ability to search for specific items within the store data. This was trickier than I initially expected and so I had to change my initial approach. I ended up adding more state to the App component and adding another useEffect that would trigger on change to the search term state. I spent some time going over this code again to make sure I understand each aspect.
 
 ### Links to work / resources:
 
@@ -1248,10 +1248,32 @@ _Monday 8th May_
 
 I spent more time on revision today. I felt it was important that I feel confident with the front-end now that we are moving to the back-end this week.
 
-I made good use of ChatGPT today by asking for explanantions for some code line by line. When I felt that I still had questions, I asked for further explanations and examples. I find this conversational, questioning style of learning works really well with ChatGPT and it helps solve some of those often very simple questions that you sometimes have but that would be difficult to Google.
+I made good use of ChatGPT today by asking for explanations for some code line by line. When I felt that I still had questions, I asked for further explanations and examples. I find this conversational, questioning style of learning works really well with ChatGPT and it helps solve some of those often very simple questions that you sometimes have but that would be difficult to Google.
 
 I also watched a tutorial on Node so that when we begin back-end tomorrow it won't be totally unfamiliar. I'm looking forward to getting stuck in over the next few weeks.
 
 ### Links to work / resources:
 
 https://github.com/anjiqbal/codewars/blob/main/lvl6/odd-heavy-array.js
+
+## Day 70 of 100 Days Of Code
+
+## Week 9 - School of Code Bootcamp
+
+_Tuesday 9th May_
+
+### Today's progress:
+
+- I learnt what Node.js is - open source software that runs on different operating systems and allows you to run JavaScript code on your computer or server
+- I learnt about non-blocking code and event driven programming
+- I used the native file system module to read and write files.
+
+### Thoughts:
+
+Today was all about Node.js. I learnt about non-blocking code that allows your computer to move on and complete other tasks while waiting for an operation to complete. This increases performance and efficiency. I learnt about event-driven programming that allows a computer to react to events that happen in the system. Instead of following a predetermined set of instructions, it listens for events and reacts to them as they occur. This allows for flexible and dynamic programs commonly used in UI's and web development.
+
+In the afternoon we used the Node core module that allows you to access file systems. After some practice, we wrote functions that allow a user to create a quote, get all quotes and get a random quote.
+
+### Links to work / resources:
+
+https://github.com/SchoolOfCode/bc14_w9d2_workshop_working-with-files-room-4-anjum-tom-danni
