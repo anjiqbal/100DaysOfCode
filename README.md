@@ -1277,3 +1277,29 @@ In the afternoon we used the Node core module that allows you to access file sys
 ### Links to work / resources:
 
 https://github.com/SchoolOfCode/bc14_w9d2_workshop_working-with-files-room-4-anjum-tom-danni
+
+## Day 70 of 100 Days Of Code
+
+## Week 9 - School of Code Bootcamp
+
+_Wednesday 10th May_
+
+### Today's progress:
+
+- I learnt web fundamentals - IP addresses, ports, sockets, domain names, DNS, HTTP - methods and requests
+- I built a simple server and tested it using Thunder Client - a similar tool to Postman
+- Used express and Node.js to build a REST API with endpoints that allow a user to create, read, update and delete
+
+### Thoughts:
+
+Big day today covering web fundamentals and continuing to build our REST API. The web fundamentals session was really helpful, covering a lot of the necessary theory tha gives the background context of working in the back end.
+
+We also started working with Express today. We began by building a simple server and then testing it using Thunder Client. Although I had used Postman before, it was only at a very basic level so it was really interesting to see just how much these tools are capable of.
+
+The afternoon was spent continuing to work on our API. This time we created API endpoints to CRUD resources. We found this quite tricky but were able to work it out and troubleshoot our errors.
+
+I also attended an after hours session run by Hamza that went over everything that we covered today and allowed us to ask as many questions as we needed. I found it very helpful and it helped me to get a better understanding of some of the concepts we covered earlier.
+
+### Links to work / resources:
+
+https://github.com/SchoolOfCode/bc14_w9d3_workshop_building-a-rest-api-room-4-anjum-tom-danni
