@@ -1303,3 +1303,27 @@ I also attended an after hours session run by Hamza that went over everything th
 ### Links to work / resources:
 
 https://github.com/SchoolOfCode/bc14_w9d3_workshop_building-a-rest-api-room-4-anjum-tom-danni
+
+## Day 70 of 100 Days Of Code
+
+## Week 9 - School of Code Bootcamp
+
+_Thursday 11th May_
+
+### Today's progress:
+
+- Tackled middleware today - built-in, custom and third party
+- How to write our own custom middleware
+- How to use express.static() to serve static files
+
+### Thoughts:
+
+Today we added another layer to the backend - middleware. We spent a lot of time playing around with our server code, breaking it, generating and exploring errors and exploring what is happening with console logs.
+
+We also had a talk today from Eli and Nadeem from Talis. They covered what a REST API is, the important aspects of it and how to follow the conventions of writing a REST API.
+
+I also attended a codebar event that was very informative. I was paired with a coach who helped me understand Express a little better. We also talked about employability and I took away some good tips for my CV and how to approach the job hunt.
+
+### Links to work / resources:
+
+https://github.com/SchoolOfCode/bc14_w9d3_workshop_building-a-rest-api-room-4-anjum-tom-danni
