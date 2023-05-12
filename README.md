@@ -1304,7 +1304,7 @@ I also attended an after hours session run by Hamza that went over everything th
 
 https://github.com/SchoolOfCode/bc14_w9d3_workshop_building-a-rest-api-room-4-anjum-tom-danni
 
-## Day 70 of 100 Days Of Code
+## Day 71 of 100 Days Of Code
 
 ## Week 9 - School of Code Bootcamp
 
@@ -1327,3 +1327,29 @@ I also attended a codebar event that was very informative. I was paired with a c
 ### Links to work / resources:
 
 https://github.com/SchoolOfCode/bc14_w9d3_workshop_building-a-rest-api-room-4-anjum-tom-danni
+
+## Day 72 of 100 Days Of Code
+
+## Week 9 - School of Code Bootcamp
+
+_Friday 12th May_
+
+### Today's progress:
+
+HACKATHON
+
+- Took our time understanding the requirements of the hackathon and the files that were given to us
+- Created Crud functionality
+- Hooked up helper functions to API endpoints
+
+### Thoughts:
+
+We decided as a team that we would take our time today and make sure that the team as a whole understood every part of what we were doing before we moved on. We knew this was important as this was quite a heavy learning week and we wanted to make sure we had solid understanding before next week.
+
+We struggled with our PATCH method and found that we couldn't event get a console log up and the error 404. After struggling for a while we realised we had a missing forward slash in the URI,so that was an important lesson to learn.
+
+My plan is to come back to this over the weekend, finish up the back-end and then hook it up to the front-end.
+
+### Links to work / resources:
+
+https://github.com/SchoolOfCode/bc14_w9d5_hackathon_build-a-backend-room-4-anjum-tom-danni
