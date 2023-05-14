@@ -1353,3 +1353,25 @@ My plan is to come back to this over the weekend, finish up the back-end and the
 ### Links to work / resources:
 
 https://github.com/SchoolOfCode/bc14_w9d5_hackathon_build-a-backend-room-4-anjum-tom-danni
+
+## Day 73 & 74 of 100 Days Of Code
+
+_Saturday 13th May_ _&_ _Sunday 14th May_
+
+### Today's progress:
+
+- Went over hackathon code to make sure I understood it
+- Hooked up the front-end to the back-end functionality
+- Created another REST API and CRUD functionality
+
+### Thoughts:
+
+I spent lots of time this weekend reinforcing all the learning from this past week. I hooked up the front-end to the back-end - only the POST, DELETE and GET HTTP methods. This wasn't as tricky as I thought it would be. I am yet to add the update functionality to the front-end, I feel as though this may take me a little longer.
+
+I then created a new REST API and the CRUD functionality and endpoints that went with it. This further reinforced my learning and I feel far more confident with Express and Node.
+
+### Links to work / resources:
+
+https://github.com/anjiqbal/recipe-keeper
+
+https://github.com/SchoolOfCode/bc14_w9_recap-task_node-express-api-anjiqbal
