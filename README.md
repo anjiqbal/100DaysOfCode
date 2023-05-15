@@ -1375,3 +1375,26 @@ I then created a new REST API and the CRUD functionality and endpoints that went
 https://github.com/anjiqbal/recipe-keeper
 
 https://github.com/SchoolOfCode/bc14_w9_recap-task_node-express-api-anjiqbal
+
+## Day 75 of 100 Days Of Code
+
+## Week 10 - School of Code Bootcamp
+
+_Monday 15th May_
+
+### Today's progress:
+
+- I learned about relational and non-relational databases
+- I wrote SQL queries to query a database
+- I worked on PokeDeck before and after School of Code
+
+### Thoughts:
+
+I learnt that non-relational or NoSQL databases are useful for large amounts of data and that relational or SQL databases are used when your data is structured and consistency is priority. SQL is used to interact with relational databases and allows you to perform CRUD actions on your resources. I practised writing queries using https://sqlbolt.com.
+
+
+I also worked on the PokeDeck app in the morning by myself and then later in the afternoon with Sam. I mainly added CSS in the morning but in the afternoon Sam and I implemented a new feature that displays a random Pokemon card on the home page. 
+
+### Links to work / resources:
+
+https://github.com/anjiqbal/PokeDeck
