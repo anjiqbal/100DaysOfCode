@@ -1398,3 +1398,27 @@ I also worked on the PokeDeck app in the morning by myself and then later in the
 ### Links to work / resources:
 
 https://github.com/anjiqbal/PokeDeck
+
+## Day 76 of 100 Days Of Code
+
+## Week 10 - School of Code Bootcamp
+
+_Tuesday 16th May_
+
+### Today's progress:
+
+- I listened to a talk by Stuart Langridge who shared tips on how to be a better developer.
+- Learnt about the different relationships between database tables and ERD's.
+- Practised using JOIN in querying a database.
+
+### Thoughts:
+
+Stuart Langridge's talk was very insightful. He shared lots of tips on how to be a better developer and how to get yourself noticed. His advice was to make sure you really understand the basics and practice these fundamentals and learn when to keep things simple and when to use frameworks etc.
+
+We learnt more about relational databases including how to create an Entity Relationship Diagram and how to show the relationships between them. We practised writing more SQL queries and then moved on to writing queries in PostgreSQL. We didn't realise at first that the syntax would be different to SQL.
+
+I also had a session with Naomi after school. This session was our second planning session for our timestable app. We planned out our MVP and each took on some work to complete before our next session.
+
+### Links to work / resources:
+
+https://sqlbolt.com/
