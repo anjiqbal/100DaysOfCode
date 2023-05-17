@@ -1422,3 +1422,28 @@ I also had a session with Naomi after school. This session was our second planni
 ### Links to work / resources:
 
 https://sqlbolt.com/
+
+## Day 77 of 100 Days Of Code
+
+## Week 10 - School of Code Bootcamp
+
+_Wednesday 16th May_
+
+### Today's progress:
+
+- Set up an ElephantSQL account - cloud storage for databases that is optimised for PostgreSQL.
+- Spent some time performing CRUD operations on the ElephantSQL platform
+- Connected database in VSCode and ran queries directly.
+
+### Thoughts:
+
+I was looking forward to today as I knew it was the day where we would connect the dots and hook up our backend to a database and be able to query it directly. I found the whole task really enjoyable. 
+
+I had come across environment variables previously but put this into practice today. We used the dotenv package to manage the loading of environment variables to from a .env file.
+
+I practised writing queries in ElephantSQL but it was really satisfying to set up the client in VSCode and to then perform those CRUD operations from there directly. Looking forward to doing more of this work tomorrow.
+
+### Links to work / resources:
+
+https://customer.elephantsql.com/instance
+
