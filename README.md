@@ -1447,3 +1447,26 @@ I practised writing queries in ElephantSQL but it was really satisfying to set u
 
 https://customer.elephantsql.com/instance
 
+## Day 78 of 100 Days Of Code
+
+## Week 10 - School of Code Bootcamp
+
+_Thursday 16th May_
+
+### Today's progress:
+
+- I learnt about parametrised queries and why we need them
+- I learnt about the MVC architecture and wrote functions for the models
+- I listened to a talk by Dileep Marway and attended a tech meetup in the evening
+
+### Thoughts:
+
+ I learnt about how we should never use template literals when writing queries but should use parametrised queries instead. Parametrised queries help us prevent SQL injection attacks that occur when an attacker injects malicious code into input parameters. Writing queries this way also improves performance. 
+ 
+ We also learnt about the model, view, controller architecture. This helps us maintain separation of concerns and helps to make our code easier to read, to reuse and to test. It provides a structured and organised approach and allows developers to collaborate simultaneously on different parts of the application without interfering with each other.
+
+ We did quite well writing the functions for the models. Once we were familiar with the file structure we found that it wasn't as complicated as we initially thought it may be. We didn't manage to finish so I will be coming back to this over the weekend.
+
+### Links to work / resources:
+
+https://github.com/SchoolOfCode/bc14_w10d4_workshop_rest-express-room4_naomi_anjum_jason
