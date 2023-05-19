@@ -1278,7 +1278,7 @@ In the afternoon we used the Node core module that allows you to access file sys
 
 https://github.com/SchoolOfCode/bc14_w9d2_workshop_working-with-files-room-4-anjum-tom-danni
 
-## Day 70 of 100 Days Of Code
+## Day 71 of 100 Days Of Code
 
 ## Week 9 - School of Code Bootcamp
 
@@ -1304,7 +1304,7 @@ I also attended an after hours session run by Hamza that went over everything th
 
 https://github.com/SchoolOfCode/bc14_w9d3_workshop_building-a-rest-api-room-4-anjum-tom-danni
 
-## Day 71 of 100 Days Of Code
+## Day 72 of 100 Days Of Code
 
 ## Week 9 - School of Code Bootcamp
 
@@ -1328,7 +1328,7 @@ I also attended a codebar event that was very informative. I was paired with a c
 
 https://github.com/SchoolOfCode/bc14_w9d3_workshop_building-a-rest-api-room-4-anjum-tom-danni
 
-## Day 72 of 100 Days Of Code
+## Day 73 of 100 Days Of Code
 
 ## Week 9 - School of Code Bootcamp
 
@@ -1354,7 +1354,7 @@ My plan is to come back to this over the weekend, finish up the back-end and the
 
 https://github.com/SchoolOfCode/bc14_w9d5_hackathon_build-a-backend-room-4-anjum-tom-danni
 
-## Day 73 & 74 of 100 Days Of Code
+## Day 74 & 75 of 100 Days Of Code
 
 _Saturday 13th May_ _&_ _Sunday 14th May_
 
@@ -1376,7 +1376,7 @@ https://github.com/anjiqbal/recipe-keeper
 
 https://github.com/SchoolOfCode/bc14_w9_recap-task_node-express-api-anjiqbal
 
-## Day 75 of 100 Days Of Code
+## Day 76 of 100 Days Of Code
 
 ## Week 10 - School of Code Bootcamp
 
@@ -1399,7 +1399,7 @@ I also worked on the PokeDeck app in the morning by myself and then later in the
 
 https://github.com/anjiqbal/PokeDeck
 
-## Day 76 of 100 Days Of Code
+## Day 77 of 100 Days Of Code
 
 ## Week 10 - School of Code Bootcamp
 
@@ -1423,7 +1423,7 @@ I also had a session with Naomi after school. This session was our second planni
 
 https://sqlbolt.com/
 
-## Day 77 of 100 Days Of Code
+## Day 78 of 100 Days Of Code
 
 ## Week 10 - School of Code Bootcamp
 
@@ -1447,7 +1447,7 @@ I practised writing queries in ElephantSQL but it was really satisfying to set u
 
 https://customer.elephantsql.com/instance
 
-## Day 78 of 100 Days Of Code
+## Day 79 of 100 Days Of Code
 
 ## Week 10 - School of Code Bootcamp
 
@@ -1470,3 +1470,26 @@ _Thursday 16th May_
 ### Links to work / resources:
 
 https://github.com/SchoolOfCode/bc14_w10d4_workshop_rest-express-room4_naomi_anjum_jason
+
+## Day 80 of 100 Days Of Code
+
+## Week 10 - School of Code Bootcamp
+
+_Friday 19th May_
+
+### Today's progress:
+
+- All day workshop delivered by Georgina Martin & Asmaa Damoh from couchbase on noSQL DBs
+- Created database/cluster, connected to it via Node and performed CRUD operations which we tested in Postman
+- After hours session with Sam on PokeDeck - worked on our own branches to add a new feature and a nav bar
+
+### Thoughts:
+
+No hackathon today. Instead we had a workshop delivered by Couchbase on how to use their product. Specifically creating an instance hosted by AWS. We then populated it with data and connected to it via Node. We then added the functions needed to query the database and tested these using Postman. 
+
+After the School of Code day was over, Sam and I got together to work on PokeDeck. We realised we were in a good position to now work separately on our own branches. I worked on the popup that should display when clicking on a Pokemon card. I decided to work on making something display and not worry about the content as of yet. By the end of the session I had a working popup which I was very pleased with. The plan is to add to it over the weekend.
+
+
+### Links to work / resources:
+
+https://github.com/anjiqbal/PokeDeck
