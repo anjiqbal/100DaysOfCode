@@ -1493,3 +1493,28 @@ After the School of Code day was over, Sam and I got together to work on PokeDec
 ### Links to work / resources:
 
 https://github.com/anjiqbal/PokeDeck
+
+## Day 81 & 82 of 100 Days Of Code
+
+## Week 10 - School of Code Bootcamp
+
+_Saturday 20th May & Sunday 21st May_
+
+### Today's progress:
+
+- Completed a level 5 codewars kata
+- Worked on PokeDeck app
+- Finished coding out the query functions for the models from Thursdays workshop and looked more into the MVC Express API pattern
+
+### Thoughts:
+
+Building on Friday's session with Sam, I continued working on the PokeDeck app and the popup that appears when you click on a card. I have it working so that a the same card loads in the popup as well as some other information pulled from the API. One question that I'm hoping to ask my mentor Simon will be how do I then pass this state to a page and not a component. I may be over thinking this and it may be that I don't have to but I will play around with the code and try and figure out a way.
+
+I finished up the main section of Thursday's workshop. I also looked into the MVC architecture a little more so that I had a better understanding of what is happening. 
+
+I also spent time working on my LinkedIn profile and tidying my CV up some more even though I submitted the first draft on Friday.
+
+
+### Links to work / resources:
+
+https://github.com/anjiqbal/PokeDeck
