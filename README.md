@@ -1544,3 +1544,27 @@ In the late afternoon we began a workshop on authentication using Supabase. We w
 https://github.com/SchoolOfCode/bc14_w11d1_workshop_auth_with_supabase-room-4-anjum-dave-roberto
 
 
+## Day 84 of 100 Days Of Code
+
+## Week 10 - School of Code Bootcamp
+
+_Tuesday 23rd May_
+
+### Today's progress:
+
+- Listened to a talk by Rik Marselis on writing quality code with a focus on testing
+- Continued with yesterday's workshop on authentication in Supabase
+- Started making our own todo list app connected to a database with a login
+
+### Thoughts:
+
+Rik Marselis's talk was really interesting as he told us about quality engineering and what that can mean. He talk about tests and the different types. I learnt about boundary testing and exploratory testing as well as some others. I asked whether he had any advice for us on how to implement testing into our 4 week project and he shared a template used for planning out tests. I hope this is something we can use going into our projects.
+
+We continued with our Supabase workshop. We added a logout button and then added more by allowing a user to type in a list of todos. We created a table on Supabase to store these and then granted the user authorisation to create, read, update and delete items from a list. At the moment it was universal authorisation so we would need to change that so that it would only be for that specific user.
+
+### Links to work / resources:
+
+https://github.com/SchoolOfCode/bc14_w11d1_workshop_auth_with_supabase-room-4-anjum-dave-roberto
+
+
+
