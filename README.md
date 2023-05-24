@@ -1392,8 +1392,7 @@ _Monday 15th May_
 
 I learnt that non-relational or NoSQL databases are useful for large amounts of data and that relational or SQL databases are used when your data is structured and consistency is priority. SQL is used to interact with relational databases and allows you to perform CRUD actions on your resources. I practised writing queries using https://sqlbolt.com.
 
-
-I also worked on the PokeDeck app in the morning by myself and then later in the afternoon with Sam. I mainly added CSS in the morning but in the afternoon Sam and I implemented a new feature that displays a random Pokemon card on the home page. 
+I also worked on the PokeDeck app in the morning by myself and then later in the afternoon with Sam. I mainly added CSS in the morning but in the afternoon Sam and I implemented a new feature that displays a random Pokemon card on the home page.
 
 ### Links to work / resources:
 
@@ -1437,7 +1436,7 @@ _Wednesday 16th May_
 
 ### Thoughts:
 
-I was looking forward to today as I knew it was the day where we would connect the dots and hook up our backend to a database and be able to query it directly. I found the whole task really enjoyable. 
+I was looking forward to today as I knew it was the day where we would connect the dots and hook up our backend to a database and be able to query it directly. I found the whole task really enjoyable.
 
 I had come across environment variables previously but put this into practice today. We used the dotenv package to manage the loading of environment variables to from a .env file.
 
@@ -1461,11 +1460,11 @@ _Thursday 16th May_
 
 ### Thoughts:
 
- I learnt about how we should never use template literals when writing queries but should use parametrised queries instead. Parametrised queries help us prevent SQL injection attacks that occur when an attacker injects malicious code into input parameters. Writing queries this way also improves performance. 
- 
- We also learnt about the model, view, controller architecture. This helps us maintain separation of concerns and helps to make our code easier to read, to reuse and to test. It provides a structured and organised approach and allows developers to collaborate simultaneously on different parts of the application without interfering with each other.
+I learnt about how we should never use template literals when writing queries but should use parametrised queries instead. Parametrised queries help us prevent SQL injection attacks that occur when an attacker injects malicious code into input parameters. Writing queries this way also improves performance.
 
- We did quite well writing the functions for the models. Once we were familiar with the file structure we found that it wasn't as complicated as we initially thought it may be. We didn't manage to finish so I will be coming back to this over the weekend.
+We also learnt about the model, view, controller architecture. This helps us maintain separation of concerns and helps to make our code easier to read, to reuse and to test. It provides a structured and organised approach and allows developers to collaborate simultaneously on different parts of the application without interfering with each other.
+
+We did quite well writing the functions for the models. Once we were familiar with the file structure we found that it wasn't as complicated as we initially thought it may be. We didn't manage to finish so I will be coming back to this over the weekend.
 
 ### Links to work / resources:
 
@@ -1485,10 +1484,9 @@ _Friday 19th May_
 
 ### Thoughts:
 
-No hackathon today. Instead we had a workshop delivered by Couchbase on how to use their product. Specifically creating an instance hosted by AWS. We then populated it with data and connected to it via Node. We then added the functions needed to query the database and tested these using Postman. 
+No hackathon today. Instead we had a workshop delivered by Couchbase on how to use their product. Specifically creating an instance hosted by AWS. We then populated it with data and connected to it via Node. We then added the functions needed to query the database and tested these using Postman.
 
 After the School of Code day was over, Sam and I got together to work on PokeDeck. We realised we were in a good position to now work separately on our own branches. I worked on the popup that should display when clicking on a Pokemon card. I decided to work on making something display and not worry about the content as of yet. By the end of the session I had a working popup which I was very pleased with. The plan is to add to it over the weekend.
-
 
 ### Links to work / resources:
 
@@ -1510,10 +1508,9 @@ _Saturday 20th May & Sunday 21st May_
 
 Building on Friday's session with Sam, I continued working on the PokeDeck app and the popup that appears when you click on a card. I have it working so that a the same card loads in the popup as well as some other information pulled from the API. One question that I'm hoping to ask my mentor Simon will be how do I then pass this state to a page and not a component. I may be over thinking this and it may be that I don't have to but I will play around with the code and try and figure out a way.
 
-I finished up the main section of Thursday's workshop. I also looked into the MVC architecture a little more so that I had a better understanding of what is happening. 
+I finished up the main section of Thursday's workshop. I also looked into the MVC architecture a little more so that I had a better understanding of what is happening.
 
 I also spent time working on my LinkedIn profile and tidying my CV up some more even though I submitted the first draft on Friday.
-
 
 ### Links to work / resources:
 
@@ -1543,7 +1540,6 @@ In the late afternoon we began a workshop on authentication using Supabase. We w
 
 https://github.com/SchoolOfCode/bc14_w11d1_workshop_auth_with_supabase-room-4-anjum-dave-roberto
 
-
 ## Day 84 of 100 Days Of Code
 
 ## Week 10 - School of Code Bootcamp
@@ -1566,5 +1562,26 @@ We continued with our Supabase workshop. We added a logout button and then added
 
 https://github.com/SchoolOfCode/bc14_w11d1_workshop_auth_with_supabase-room-4-anjum-dave-roberto
 
+## Day 85 of 100 Days Of Code
 
+## Week 10 - School of Code Bootcamp
 
+_Wednesday 24th May_
+
+### Today's progress:
+
+- Great talk by Dr. Murray Hoggett today on general advice and things to expect when applying for jobs
+- Intro to TypeScript and a workshop
+- Worked with Naomi on Mathswiz after hours
+
+### Thoughts:
+
+Today's talk was really motivating. Dr. Murray was incredibly frank and honest about pay and things he has learned the hard way.
+
+TypeScript - built on JavaScript but is statically typed. We played around with variables using type inference as well as explicitly providing a type. We practised with functions as well as creating new types. We then went on to convert a rock/paper/scissors game written in JS to TypeScript.
+
+After SoC I worked on MathsWiz with Naomi. I finished the wireframe and component tree. We set up the React app with Vite and are ready to branch off and start coding. 
+
+### Links to work / resources:
+
+https://github.com/naomiuwa/MathsWiz
