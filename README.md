@@ -1585,3 +1585,28 @@ After SoC I worked on MathsWiz with Naomi. I finished the wireframe and componen
 ### Links to work / resources:
 
 https://github.com/naomiuwa/MathsWiz
+
+
+## Day 86 of 100 Days Of Code
+
+## Week 10 - School of Code Bootcamp
+
+_Thursday 25th May_
+
+### Today's progress:
+
+- Another great talk, this time by Amelia Collins-Patel. She shared insights into life after SoC and answered our questions. 
+- We dug more into TypeScript and how it works within React. 
+- We migrated a game built in React and JS to to TypeScript.
+
+### Thoughts:
+
+We began the day with some codewars and then listened to the talk by Amelia. She shared lots of useful info and advice. 
+
+In the afternoon we worked on TypeScript but with React. We learnt about how to pass props. We then worked on migrating JavaScript files to TypeScript for a todo list app. Once we got the hang of how to type functions, it was pretty straightforward. 
+
+I also worked some more on PokeDeck. I am having some trouble understanding how to reuse the popup component that appears on the home page. I need to make the same popup appear after a user uses the input to search for a specific Pokemon and then clicks on a card. What I have tried so far has not worked so I am just taking my time and trying to understand how it could work or whether I should create another popup component. I need to understand how to pass state/props down when navigating.
+ 
+### Links to work / resources:
+
+https://github.com/anjiqbal/PokeDeck
