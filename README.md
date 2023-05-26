@@ -1610,3 +1610,36 @@ I also worked some more on PokeDeck. I am having some trouble understanding how 
 ### Links to work / resources:
 
 https://github.com/anjiqbal/PokeDeck
+
+
+## Day 87 of 100 Days Of Code
+
+## Week 10 - School of Code Bootcamp
+
+_Friday 26th May_
+
+### Today's progress:
+
+HACKATHON
+
+- Fetched data from a weather API and built a front-end app in TypeScript and React, to display it
+- Took time to read and understand code written by others
+- Worked on PokeDeck after hours with Sam
+
+### Thoughts:
+
+Today's task was to build an app using TypeScript and React that allowed a user to type in the name of a city and displayed weather data for that city. I worked on it in the morning with my team but missed the middle of the day as I took my dad to an appointment. When I came back, I spent some time reading and understanding the code that David and Roberto had written.
+
+I met up with Sam after to discuss where we are with PokeDeck and what we are going to do over the next week. We split some tasks up and decided that next week we would start on the back-end and do that together initially. 
+
+I also found a solution to the problem I was having with the popup. I realised tha although it is great to be able to reuse components, sometimes it is too complicated and doesn't make sense. I decided instead that when a user clicks on a card they have searched for, it will navigate to a new page that then displays some information about that Pokemon. 
+
+ 
+### Links to work / resources:
+
+https://github.com/SchoolOfCode/bc14_w11d5_hackathon_react-typescript-room-4-anjum-dave-roberto
+
+https://github.com/anjiqbal/PokeDeck
+
+
+
