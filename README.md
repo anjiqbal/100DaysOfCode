@@ -1642,4 +1642,25 @@ https://github.com/SchoolOfCode/bc14_w11d5_hackathon_react-typescript-room-4-anj
 https://github.com/anjiqbal/PokeDeck
 
 
+## Day 88-90 of 100 Days Of Code
+
+_Saturday 27th May, Sunday 28th May, Monday 29th May_
+
+### Today's progress:
+
+- I worked on Friday's hackathon
+- I did research and planned out how to add a back-end to the PokeDeck app
+- I read more about accessibility and went through the PokeDeck codebase and refactored where necessary to ensure the app is accessible
+
+
+### Thoughts:
+
+I tried to make sure that I didn't do too much over this bank holiday weekend as I know with our final projects coming up that the workload will inevitably intensify. Something that I felt would be important to do before the project gets started was to go over the hackathon and make sure I understood the code. I'm glad I did this as I'm not sure I would have time to go back to TypeScript during the project and I wanted to make sure I understood the fundamentals.
+
+Sam and I have given ourselves this week to start adding a back-end to the PokeDeck app. I was still unclear on how we would go about doing that so I did lots of reading and research and made a plan that we can follow when we work together. I'm not sure it covers everything but it definitely helped me to visualise better how to go about doing this. I also went back over the code to make sure we were following accessibility guidelines. It was mostly ok but I found there were some tags that needed updating so that they had more semantic meaning.
+ 
+### Links to work / resources:
+
+https://github.com/anjiqbal/PokeDeck
+
 
