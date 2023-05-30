@@ -1518,7 +1518,7 @@ https://github.com/anjiqbal/PokeDeck
 
 ## Day 83 of 100 Days Of Code
 
-## Week 10 - School of Code Bootcamp
+## Week 11 - School of Code Bootcamp
 
 _Monday 22nd May_
 
@@ -1542,7 +1542,7 @@ https://github.com/SchoolOfCode/bc14_w11d1_workshop_auth_with_supabase-room-4-an
 
 ## Day 84 of 100 Days Of Code
 
-## Week 10 - School of Code Bootcamp
+## Week 11 - School of Code Bootcamp
 
 _Tuesday 23rd May_
 
@@ -1564,7 +1564,7 @@ https://github.com/SchoolOfCode/bc14_w11d1_workshop_auth_with_supabase-room-4-an
 
 ## Day 85 of 100 Days Of Code
 
-## Week 10 - School of Code Bootcamp
+## Week 11 - School of Code Bootcamp
 
 _Wednesday 24th May_
 
@@ -1589,7 +1589,7 @@ https://github.com/naomiuwa/MathsWiz
 
 ## Day 86 of 100 Days Of Code
 
-## Week 10 - School of Code Bootcamp
+## Week 11 - School of Code Bootcamp
 
 _Thursday 25th May_
 
@@ -1614,7 +1614,7 @@ https://github.com/anjiqbal/PokeDeck
 
 ## Day 87 of 100 Days Of Code
 
-## Week 10 - School of Code Bootcamp
+## Week 11 - School of Code Bootcamp
 
 _Friday 26th May_
 
@@ -1662,5 +1662,24 @@ Sam and I have given ourselves this week to start adding a back-end to the PokeD
 ### Links to work / resources:
 
 https://github.com/anjiqbal/PokeDeck
+
+
+## Day 91 of 100 Days Of Code
+
+## Week 12 - School of Code Bootcamp
+
+_Tuesday 30th May_
+
+### Today's progress:
+
+- Met the new team for the final project
+- Created a team manifesto
+- Brainstormed app ideas for problems we could solve
+
+### Thoughts:
+
+Today was the first day of our final project month. We are put into teams of 6 and today was just about getting to know each other and creating a team manifesto that will guide us during our time working together. We spent a large portion of today getting to know each other, discussing our working styles and how we would like to work together. This is really important as it will ensure that we are able to work as a cohesive unit and that we enjoy the time we spend together. We discussed ideas for apps based on problems we could solve. We came up with quite a few suggestions and then narrowed it down to a final list. We then used dot voting and found ourselves settling on one idea. The plan for tomorrow is to explore that idea further and try and poke holes in it to see if it stands up. 
+
+### Links to work / resources:
 
 
