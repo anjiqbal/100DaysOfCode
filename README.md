@@ -1683,3 +1683,25 @@ Today was the first day of our final project month. We are put into teams of 6 a
 ### Links to work / resources:
 
 
+## Day 92 of 100 Days Of Code
+
+## Week 12 - School of Code Bootcamp
+
+_Wednesday 31st May_
+
+### Today's progress:
+
+- Worked on PokeDeck with Sam before SoC and worked on it after SoC too
+- Finalised our idea for our MVP
+- Wrote user stories and conducted user and market research on our idea
+
+### Thoughts:
+
+Final project - We are making good progress as a team with what we want to do. SoC have told us that we have plenty of time and that we should go through this part of the process thoroughly. In some ways this is a little easier for us as we pretty quickly decided on what we would like to build. Today was about making sure that this was a solid idea that we could work with for the next 4 weeks. We looked for all the cons of this idea and discussed them adn found we were still happy to go ahead. The rest of the day was spent doing market research - looking for anything similar or anything we could draw inspiration from and conducting user research by creating a questionnaire and sharing it to get responses.
+
+PokeDeck - Started working on hooking up a backend. We changed tie file structure so it was more in line with the MVC architecture. We set up a server folder and within it a simple server.js file that returns some text. When testing we found that it didn't work in the browser but did in postman. The server and the frontend are both running on different ports. The frontend has a proxy that should got to the backend when it finds routes that are not served from the front. The problem is that this is not working. It seems like a CORS issue but we have enabled CORS. Really not sure what is happening but it's probably something simple and straightforward.
+
+
+### Links to work / resources:
+
+https://github.com/anjiqbal/PokeDeck
