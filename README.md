@@ -1705,3 +1705,27 @@ PokeDeck - Started working on hooking up a backend. We changed tie file structur
 ### Links to work / resources:
 
 https://github.com/anjiqbal/PokeDeck
+
+
+## Day 93 of 100 Days Of Code
+
+## Week 12 - School of Code Bootcamp
+
+_Thursday 1st June_
+
+### Today's progress:
+
+- Worked on PokeDeck with Sam before SoC - fixed server issue
+- We worked on narrowing down the focus of our MVP
+- We started working on wireframes and defining exactly what it is that we want our app to do
+
+### Thoughts:
+
+PokeDeck - We spent the morning before SoC trying to fix our server issue. We did some reading and found a tutorial that seemed helpful. I undid the server changes made previously as I felt it would be better to start with a clean slate. We got the server working but only if we click a button on the frontend. If we type the route in to the browser that still doesn't display anything and says path not found. I still don't understand why that happens.
+
+SoC - Today was a very productive day. We worked on narrowing down the focus of our MVP so that we know exactly what it is that we want to build. We did this through lots of discussions and asking questions. I tried to make sure that I was asking questions that I thought someone in industry might ask us. This helped us then to create a succinct summary of what our app is. 
+
+### Links to work / resources:
+https://levelup.gitconnected.com/create-a-react-app-with-an-express-backend-24740b0a6f5e
+
+https://github.com/anjiqbal/PokeDeck
