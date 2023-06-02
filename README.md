@@ -1729,3 +1729,27 @@ SoC - Today was a very productive day. We worked on narrowing down the focus of 
 https://levelup.gitconnected.com/create-a-react-app-with-an-express-backend-24740b0a6f5e
 
 https://github.com/anjiqbal/PokeDeck
+
+## Day 94 of 100 Days Of Code
+
+## Week 12 - School of Code Bootcamp
+
+_Friday 2nd June_
+
+### Today's progress:
+
+- Did some more market research and discussed features further
+- Worked on app wireframe
+- Prepared and presented our first sprint demo
+
+### Thoughts:
+
+The end of the first week of our final projects and overall I feel as though it couldn't have gone better. We have all worked really well together as a team with everyone contributing in the work that we are doing and the discussions we are having. Today we had two goals in mind - the wireframe and the sprint-demo presentation. We split off into teams of three to work on each of these areas. I was on the sprint-demo team. We prepared the slides and wrote out a script for us to use. The other team worked on the wireframe and created a clickable prototype. We practised our presentations a few times to make sure that our presentation was smooth and professional. We had to tweak it a few times to make sure that we covered the necessary points we wanted to make. 
+
+The sprint-demo presentation itself went really well. We got excellent feedback on our actual presenting and transitions as well as on our app idea. Tom gave us lots of suggestions that we are planning on discussing further on Monday. Some of the ideas he had stray away slightly form our original idea but they were very interesting so definitely worth digging into deeper. He suggested more of a YouTube shorts style video idea for the memories as well as perhaps audio. Our idea was mainly based on text originally so this will be something we'll have to decide as a team how we would like to implement.
+
+Overall, I have had a really great week and am looking forward to the next one.
+
+### Links to work / resources:
+
+https://basecamp.com/gettingreal
