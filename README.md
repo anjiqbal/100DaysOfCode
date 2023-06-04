@@ -1753,3 +1753,23 @@ Overall, I have had a really great week and am looking forward to the next one.
 ### Links to work / resources:
 
 https://basecamp.com/gettingreal
+
+## Day 95-96 of 100 Days Of Code
+
+_Saturday 3rd June, Sunday 4th June_
+
+### Today's progress:
+
+- Did a level 5 codewars kata
+- Did some reading and made notes from the basecamp getting real online book
+- Spent some time thinking about pros and cons for different versions of our final project app
+
+### Thoughts:
+
+Didn't do too much coding this weekend but did a codewars challenge that was fun as it's been a while since I've done any. Mostly did reading from the Basecamp Getting Real book. I made some notes as I went along in case it would be useful to the team but I think the main gist of the text so far has been focus on the core of what you are trying to build. Keep in mind the key problem you are trying to solve and focus on who it is you are building for. For us something that would be useful initially is to get the main content of what we want our app to be and then focus on details. 
+
+I also spent some time thinking about our sprint demo feedback and thinking of pros and cons for different versions. I'm looking forward to the team discussions around this, it'll be interesting to see what everyone else is thinking.
+ 
+### Links to work / resources:
+
+https://basecamp.com/gettingreal
