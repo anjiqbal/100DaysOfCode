@@ -1580,12 +1580,11 @@ Today's talk was really motivating. Dr. Murray was incredibly frank and honest a
 
 TypeScript - built on JavaScript but is statically typed. We played around with variables using type inference as well as explicitly providing a type. We practised with functions as well as creating new types. We then went on to convert a rock/paper/scissors game written in JS to TypeScript.
 
-After SoC I worked on MathsWiz with Naomi. I finished the wireframe and component tree. We set up the React app with Vite and are ready to branch off and start coding. 
+After SoC I worked on MathsWiz with Naomi. I finished the wireframe and component tree. We set up the React app with Vite and are ready to branch off and start coding.
 
 ### Links to work / resources:
 
 https://github.com/naomiuwa/MathsWiz
-
 
 ## Day 86 of 100 Days Of Code
 
@@ -1595,22 +1594,21 @@ _Thursday 25th May_
 
 ### Today's progress:
 
-- Another great talk, this time by Amelia Collins-Patel. She shared insights into life after SoC and answered our questions. 
-- We dug more into TypeScript and how it works within React. 
+- Another great talk, this time by Amelia Collins-Patel. She shared insights into life after SoC and answered our questions.
+- We dug more into TypeScript and how it works within React.
 - We migrated a game built in React and JS to to TypeScript.
 
 ### Thoughts:
 
-We began the day with some codewars and then listened to the talk by Amelia. She shared lots of useful info and advice. 
+We began the day with some codewars and then listened to the talk by Amelia. She shared lots of useful info and advice.
 
-In the afternoon we worked on TypeScript but with React. We learnt about how to pass props. We then worked on migrating JavaScript files to TypeScript for a todo list app. Once we got the hang of how to type functions, it was pretty straightforward. 
+In the afternoon we worked on TypeScript but with React. We learnt about how to pass props. We then worked on migrating JavaScript files to TypeScript for a todo list app. Once we got the hang of how to type functions, it was pretty straightforward.
 
 I also worked some more on PokeDeck. I am having some trouble understanding how to reuse the popup component that appears on the home page. I need to make the same popup appear after a user uses the input to search for a specific Pokemon and then clicks on a card. What I have tried so far has not worked so I am just taking my time and trying to understand how it could work or whether I should create another popup component. I need to understand how to pass state/props down when navigating.
- 
+
 ### Links to work / resources:
 
 https://github.com/anjiqbal/PokeDeck
-
 
 ## Day 87 of 100 Days Of Code
 
@@ -1630,17 +1628,15 @@ HACKATHON
 
 Today's task was to build an app using TypeScript and React that allowed a user to type in the name of a city and displayed weather data for that city. I worked on it in the morning with my team but missed the middle of the day as I took my dad to an appointment. When I came back, I spent some time reading and understanding the code that David and Roberto had written.
 
-I met up with Sam after to discuss where we are with PokeDeck and what we are going to do over the next week. We split some tasks up and decided that next week we would start on the back-end and do that together initially. 
+I met up with Sam after to discuss where we are with PokeDeck and what we are going to do over the next week. We split some tasks up and decided that next week we would start on the back-end and do that together initially.
 
-I also found a solution to the problem I was having with the popup. I realised tha although it is great to be able to reuse components, sometimes it is too complicated and doesn't make sense. I decided instead that when a user clicks on a card they have searched for, it will navigate to a new page that then displays some information about that Pokemon. 
+I also found a solution to the problem I was having with the popup. I realised tha although it is great to be able to reuse components, sometimes it is too complicated and doesn't make sense. I decided instead that when a user clicks on a card they have searched for, it will navigate to a new page that then displays some information about that Pokemon.
 
- 
 ### Links to work / resources:
 
 https://github.com/SchoolOfCode/bc14_w11d5_hackathon_react-typescript-room-4-anjum-dave-roberto
 
 https://github.com/anjiqbal/PokeDeck
-
 
 ## Day 88-90 of 100 Days Of Code
 
@@ -1652,17 +1648,15 @@ _Saturday 27th May, Sunday 28th May, Monday 29th May_
 - I did research and planned out how to add a back-end to the PokeDeck app
 - I read more about accessibility and went through the PokeDeck codebase and refactored where necessary to ensure the app is accessible
 
-
 ### Thoughts:
 
 I tried to make sure that I didn't do too much over this bank holiday weekend as I know with our final projects coming up that the workload will inevitably intensify. Something that I felt would be important to do before the project gets started was to go over the hackathon and make sure I understood the code. I'm glad I did this as I'm not sure I would have time to go back to TypeScript during the project and I wanted to make sure I understood the fundamentals.
 
 Sam and I have given ourselves this week to start adding a back-end to the PokeDeck app. I was still unclear on how we would go about doing that so I did lots of reading and research and made a plan that we can follow when we work together. I'm not sure it covers everything but it definitely helped me to visualise better how to go about doing this. I also went back over the code to make sure we were following accessibility guidelines. It was mostly ok but I found there were some tags that needed updating so that they had more semantic meaning.
- 
+
 ### Links to work / resources:
 
 https://github.com/anjiqbal/PokeDeck
-
 
 ## Day 91 of 100 Days Of Code
 
@@ -1678,10 +1672,9 @@ _Tuesday 30th May_
 
 ### Thoughts:
 
-Today was the first day of our final project month. We are put into teams of 6 and today was just about getting to know each other and creating a team manifesto that will guide us during our time working together. We spent a large portion of today getting to know each other, discussing our working styles and how we would like to work together. This is really important as it will ensure that we are able to work as a cohesive unit and that we enjoy the time we spend together. We discussed ideas for apps based on problems we could solve. We came up with quite a few suggestions and then narrowed it down to a final list. We then used dot voting and found ourselves settling on one idea. The plan for tomorrow is to explore that idea further and try and poke holes in it to see if it stands up. 
+Today was the first day of our final project month. We are put into teams of 6 and today was just about getting to know each other and creating a team manifesto that will guide us during our time working together. We spent a large portion of today getting to know each other, discussing our working styles and how we would like to work together. This is really important as it will ensure that we are able to work as a cohesive unit and that we enjoy the time we spend together. We discussed ideas for apps based on problems we could solve. We came up with quite a few suggestions and then narrowed it down to a final list. We then used dot voting and found ourselves settling on one idea. The plan for tomorrow is to explore that idea further and try and poke holes in it to see if it stands up.
 
 ### Links to work / resources:
-
 
 ## Day 92 of 100 Days Of Code
 
@@ -1701,11 +1694,9 @@ Final project - We are making good progress as a team with what we want to do. S
 
 PokeDeck - Started working on hooking up a backend. We changed tie file structure so it was more in line with the MVC architecture. We set up a server folder and within it a simple server.js file that returns some text. When testing we found that it didn't work in the browser but did in postman. The server and the frontend are both running on different ports. The frontend has a proxy that should got to the backend when it finds routes that are not served from the front. The problem is that this is not working. It seems like a CORS issue but we have enabled CORS. Really not sure what is happening but it's probably something simple and straightforward.
 
-
 ### Links to work / resources:
 
 https://github.com/anjiqbal/PokeDeck
-
 
 ## Day 93 of 100 Days Of Code
 
@@ -1723,9 +1714,10 @@ _Thursday 1st June_
 
 PokeDeck - We spent the morning before SoC trying to fix our server issue. We did some reading and found a tutorial that seemed helpful. I undid the server changes made previously as I felt it would be better to start with a clean slate. We got the server working but only if we click a button on the frontend. If we type the route in to the browser that still doesn't display anything and says path not found. I still don't understand why that happens.
 
-SoC - Today was a very productive day. We worked on narrowing down the focus of our MVP so that we know exactly what it is that we want to build. We did this through lots of discussions and asking questions. I tried to make sure that I was asking questions that I thought someone in industry might ask us. This helped us then to create a succinct summary of what our app is. 
+SoC - Today was a very productive day. We worked on narrowing down the focus of our MVP so that we know exactly what it is that we want to build. We did this through lots of discussions and asking questions. I tried to make sure that I was asking questions that I thought someone in industry might ask us. This helped us then to create a succinct summary of what our app is.
 
 ### Links to work / resources:
+
 https://levelup.gitconnected.com/create-a-react-app-with-an-express-backend-24740b0a6f5e
 
 https://github.com/anjiqbal/PokeDeck
@@ -1744,7 +1736,7 @@ _Friday 2nd June_
 
 ### Thoughts:
 
-The end of the first week of our final projects and overall I feel as though it couldn't have gone better. We have all worked really well together as a team with everyone contributing in the work that we are doing and the discussions we are having. Today we had two goals in mind - the wireframe and the sprint-demo presentation. We split off into teams of three to work on each of these areas. I was on the sprint-demo team. We prepared the slides and wrote out a script for us to use. The other team worked on the wireframe and created a clickable prototype. We practised our presentations a few times to make sure that our presentation was smooth and professional. We had to tweak it a few times to make sure that we covered the necessary points we wanted to make. 
+The end of the first week of our final projects and overall I feel as though it couldn't have gone better. We have all worked really well together as a team with everyone contributing in the work that we are doing and the discussions we are having. Today we had two goals in mind - the wireframe and the sprint-demo presentation. We split off into teams of three to work on each of these areas. I was on the sprint-demo team. We prepared the slides and wrote out a script for us to use. The other team worked on the wireframe and created a clickable prototype. We practised our presentations a few times to make sure that our presentation was smooth and professional. We had to tweak it a few times to make sure that we covered the necessary points we wanted to make.
 
 The sprint-demo presentation itself went really well. We got excellent feedback on our actual presenting and transitions as well as on our app idea. Tom gave us lots of suggestions that we are planning on discussing further on Monday. Some of the ideas he had stray away slightly form our original idea but they were very interesting so definitely worth digging into deeper. He suggested more of a YouTube shorts style video idea for the memories as well as perhaps audio. Our idea was mainly based on text originally so this will be something we'll have to decide as a team how we would like to implement.
 
@@ -1766,10 +1758,58 @@ _Saturday 3rd June, Sunday 4th June_
 
 ### Thoughts:
 
-Didn't do too much coding this weekend but did a codewars challenge that was fun as it's been a while since I've done any. Mostly did reading from the Basecamp Getting Real book. I made some notes as I went along in case it would be useful to the team but I think the main gist of the text so far has been focus on the core of what you are trying to build. Keep in mind the key problem you are trying to solve and focus on who it is you are building for. For us something that would be useful initially is to get the main content of what we want our app to be and then focus on details. 
+Didn't do too much coding this weekend but did a codewars challenge that was fun as it's been a while since I've done any. Mostly did reading from the Basecamp Getting Real book. I made some notes as I went along in case it would be useful to the team but I think the main gist of the text so far has been focus on the core of what you are trying to build. Keep in mind the key problem you are trying to solve and focus on who it is you are building for. For us something that would be useful initially is to get the main content of what we want our app to be and then focus on details.
 
 I also spent some time thinking about our sprint demo feedback and thinking of pros and cons for different versions. I'm looking forward to the team discussions around this, it'll be interesting to see what everyone else is thinking.
- 
+
 ### Links to work / resources:
 
 https://basecamp.com/gettingreal
+
+## Day 97 of 100 Days Of Code
+
+## Week 13 - School of Code Bootcamp
+
+_Monday 5th June_
+
+### Today's progress:
+
+- Discussed sprint-demo feedback and decided on the core MVP
+- Decided on our tech stack and our project management plan
+- Worked on wireframe and user stories
+
+### Thoughts:
+
+We began today by working through the sprint demo feedback. We discussed all of our options, talked through our thoughts and ideas and listened and asked each other questions. We decided on the core of our MVP - something that we were all happy with and ready to go forward with. This didn't take as long as I thought it may and we were able to move on with the rest of the tasks for week 2.
+
+[mvp](images/mvp.png)
+
+We went on to discuss the tech stack we want to use. We were very careful about not trying something that was new and also had a steep learning curve, but also not playing it totally safe. We decided on React-vite front end using Bootstrap and a Node and Express backend using Supabase. For project management we decided to use Jira. We had all used Trello before but felt that this was somewhere where we could safely try some new tech.
+
+The team split off at this point. Some of us worked on our wireframes - adjusting it given the feedback from the sprint demo and our revised MVP. The others, including me, worked on user stories. This is a really useful way of making sure the user is at the forefront of our minds and of making sure we have empathy in what we are trying to build.
+
+[User stories](images/mohammed-user-story.png)
+
+### Links to work / resources:
+
+## Day 98 of 100 Days Of Code
+
+## Week 13 - School of Code Bootcamp
+
+_Tuesday 6th June_
+
+### Today's progress:
+
+- Worked on wireframes - lots of discussions about what we want
+- Worked on creating backlog in Jira
+- Worked on MathsWiz before SoC today - Chakra UI
+
+### Thoughts:
+
+Today was the kind of day where we got a lot done and decided but in terms of movement it still feels as if we're in the same place as yesterday. There was a lot to discuss about the wireframes. We decided against the login page being the first page someone sees. Instead we have decided that the login will only appear when a user tries to interact with content - like, comment, upload etc. There were many similar discussions about various aspects of our app and exactly what it was that we wanted it to do.
+
+We also worked on the Jira board. We broke the app down into main sections of functionality (the epics) and then broke them down into smaller tasks. I didn't want to go to small as I'm not sure it would be useful at this stage.
+
+I also worked on MathsWiz. I thought it might be interesting to try Chakra UI - the first time I've tried a UI library myself. I used the radio buttons and the checkboxes and then customised them accordingly. It was a lot easier than I had anticipated.
+
+### Links to work / resources:
