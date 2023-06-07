@@ -1813,3 +1813,27 @@ We also worked on the Jira board. We broke the app down into main sections of fu
 I also worked on MathsWiz. I thought it might be interesting to try Chakra UI - the first time I've tried a UI library myself. I used the radio buttons and the checkboxes and then customised them accordingly. It was a lot easier than I had anticipated.
 
 ### Links to work / resources:
+
+
+
+## Day 99 of 100 Days Of Code
+
+## Week 13 - School of Code Bootcamp
+
+_Wednesday 7th June_
+
+### Today's progress:
+
+- Looked into Create-React-App vs Vite
+- Created component tree
+- Worked on how we would go about uploading videos - research and code
+
+### Thoughts:
+
+Today was a good day. We began as usual with a standup and going over everything we did yesterday and what we hope to achieve today. We decided on separate repos for frontend and backend and we also decided on a GitHub strategy with branching. We went over our tech stack and decided to make certain about using Vite as one of the team members had a few doubts. Looking into this further made us realise that CRA is now deprecated and although we could still use it, it makes more sense to use something up to date. 
+
+We also worked on our component tree. This took lots of time and discussion to make sure everyone understood what was happening and how everything would work. We made the decision to make our initial component tree cover just the basic functionality and add to it as the app grew. The component tree covered the the search, upload and display functionality.
+
+We then split off and spent some time looking into areas that would be useful for when we start coding our app. I looked into how to upload videos and images. I found a package called uploady and had a play around with it to see if I could get it to work. I got it rendering and uploading but definitely would need more time to get the complete functionality up and running. Others in the team looked at how to implement Bootstrap. We came back together after around an hour and shared what we learnt.
+
+### Links to work / resources:
