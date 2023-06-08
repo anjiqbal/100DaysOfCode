@@ -1837,3 +1837,24 @@ We also worked on our component tree. This took lots of time and discussion to m
 We then split off and spent some time looking into areas that would be useful for when we start coding our app. I looked into how to upload videos and images. I found a package called uploady and had a play around with it to see if I could get it to work. I got it rendering and uploading but definitely would need more time to get the complete functionality up and running. Others in the team looked at how to implement Bootstrap. We came back together after around an hour and shared what we learnt.
 
 ### Links to work / resources:
+
+
+## 🎉🎉 Day 100 of 100 Days Of Code 🎉🎉
+
+## Week 13 - School of Code Bootcamp
+
+_Thursday 8th June_
+
+### Today's progress:
+
+- Worked on Hi-fi wireframes
+- Looked into how to deploy a fullstack app
+- Worked on PokeDeck in the morning before SoC
+
+### Thoughts:
+
+100 days came around a lot quicker than I thought it would! We began by discussing our plan for the day. Nadeem dropped by and gave us lots of useful advice, including rethinking the fact that we hadn't done our hi-fi wireframe. He mentioned how not having a detailed wireframe can cause lots of potential issues within the team at a later date. We all agreed that it made sense to get our hi-fi wireframe done in order to ensure we have clarity on what our app will look like and how it will behave. We talked about deployment, networking (techMids) and CRA and vite. Before lunch we had a talk by BAE Systems. This was quite insightful - I wasn't aware of their role in digital security. After lunch we split off and worked on wireframes, research and preparing for the sprint demo. I spent some time researching how to go about deploying a fullstack app. I'm clear on how to deploy the front-end but I'm still quite confused about how we would go about deploying the back-end and what platform makes sense for us to use. I also worked on the script for the demo tomorrow. The hi-fi wireframes are coming along really well so they should be ready to go for tomorrow.
+
+This morning, Sam and I worked on the server side of our app some more. We realised that we need to take some more time to plan out our tables and our routes, models and controllers. We spent a decent amount of time discussing and making sure we understood how these things are connected. Once we get this plan down, I don't think it will be too difficult to code out as we can reuse some of the code we learnt in the previous weeks. Something I might try is figuring out how to deploy the server side of PokeDeck as the front-end is already deployed on Netlify.
+
+### Links to work / resources:
