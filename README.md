@@ -1858,3 +1858,25 @@ _Thursday 8th June_
 This morning, Sam and I worked on the server side of our app some more. We realised that we need to take some more time to plan out our tables and our routes, models and controllers. We spent a decent amount of time discussing and making sure we understood how these things are connected. Once we get this plan down, I don't think it will be too difficult to code out as we can reuse some of the code we learnt in the previous weeks. Something I might try is figuring out how to deploy the server side of PokeDeck as the front-end is already deployed on Netlify.
 
 ### Links to work / resources:
+
+## Day 101 of 100 Days Of Code - Round 2
+
+## Week 13 - School of Code Bootcamp
+
+_Friday 9h June_
+
+### Today's progress:
+
+- Planned and carried out sprint demo
+- Completed hi-fi wireframe
+- Deployed frontend onto Netlify and researched further into how to deploy backend
+
+### Thoughts:
+
+Today was a great day and we managed to set ourselves up ready for a good week next week. We had our sprint demo today at 13.50 so preparing for that took some time. We completed our slides and our scripts and practised a couple of times. The demo itself went really well. We presented to Arshi and Milly and they gave us really good feedback. They enjoyed our presentations and our photos(baby pictures this time) and they liked how the focus was on the team as a whole and how we worked together. Something they suggested was sharing our wireframe and getting feedback on it and responding to that feedback, so that is something we have added to our plan for next week.
+
+We also completed our hi-fi wireframe. We may still make changes to it but we found that the flow and the pages made sense and provided a good user experience. Something that we hadn't considered as we went into building the hi-fi wireframe quite quickly was the contrast between the text and the background. Although it looked quite good, I realised we hadn't run it through the contrast checker. It turned out that the contrast wasn't good enough for accessibility so knowing that it was important but also that the team were close to finished, I let them know as the bearer of bad news that we needed to make changes. Luckily the team is excellent and didn't boot me out of the zoom call. They made the necessary changes and it still looked great.
+
+After our sprint demo we worked on deploying our app. Having deployed a React app previously on Netlify I was familiar with it but I wasn't sure of the differences between deploying an app built with CRA or with Vite. It turned out it wasn't too different. The struggle we had was that when we first attempted to deploy it failed. i remembered that I needed to specify the publish directory. For CRA that was build but for Vite it is dist. The problem we had was that our dist directory was nested within 2 other folders. We tried lots of things but it turned out that it was a case of a missing capital letter. Once we resolved this it was pretty straightforward. As a team we're really looking forward to getting into the code next week.
+
+### Links to work / resources:
