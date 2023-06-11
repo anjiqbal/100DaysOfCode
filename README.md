@@ -1880,3 +1880,28 @@ We also completed our hi-fi wireframe. We may still make changes to it but we fo
 After our sprint demo we worked on deploying our app. Having deployed a React app previously on Netlify I was familiar with it but I wasn't sure of the differences between deploying an app built with CRA or with Vite. It turned out it wasn't too different. The struggle we had was that when we first attempted to deploy it failed. i remembered that I needed to specify the publish directory. For CRA that was build but for Vite it is dist. The problem we had was that our dist directory was nested within 2 other folders. We tried lots of things but it turned out that it was a case of a missing capital letter. Once we resolved this it was pretty straightforward. As a team we're really looking forward to getting into the code next week.
 
 ### Links to work / resources:
+
+
+## Round 2 - Day 2-3 of 100 Days Of Code 
+
+_Saturday 10th June, Sunday 11th June_
+
+### Today's progress:
+
+- Did some research around building and deploying a full-stack pern app
+- Built a full-stack todo list app and deployed
+- Designed the database schema and planned API endpoints and corresponding actions
+
+### Thoughts:
+
+I've been quite confused this past week about how we would go about deploying the back-end. I knew the only way I would understand it is by doing it so I found a tutorial showing how to build a todo list app using PostgresSQL on your local machine. This wasn't quite what I wanted so I found other resources and made changes accordingly. I wanted a hosted database and I wanted to deploy using Railway. I set up separate repos for the front-end and back-end. I deployed the front to Netlify and the back-end to Railway. Everything makes a lot more sense now and hopefully it'll be useful for us during the project. 
+
+I also worked on PokeDeck by designing the database schema and planning the API endpoints and corresponding actions. I talked to Sam over Slack and we both decided it made sense to ignore authentication for now and focus on getting the app as a whole functional. We really want to push this week and get as much done as we can. 
+
+### Links to work / resources:
+
+https://todo-do-do-list.netlify.app
+
+https://github.com/anjiqbal/todo-frontend
+
+https://github.com/anjiqbal/todo-backend
