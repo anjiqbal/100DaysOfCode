@@ -1859,7 +1859,7 @@ This morning, Sam and I worked on the server side of our app some more. We reali
 
 ### Links to work / resources:
 
-## Day 101 of 100 Days Of Code - Round 2
+## Day 1 of 100 Days Of Code - Round 2
 
 ## Week 13 - School of Code Bootcamp
 
@@ -1890,7 +1890,7 @@ _Saturday 10th June, Sunday 11th June_
 
 - Did some research around building and deploying a full-stack pern app
 - Built a full-stack todo list app and deployed
-- Designed the database schema and planned API endpoints and corresponding actions
+- Designed the database schema and planned API endpoints and corresponding actions for PokeDeck
 
 ### Thoughts:
 
@@ -1905,3 +1905,28 @@ https://todo-do-do-list.netlify.app
 https://github.com/anjiqbal/todo-frontend
 
 https://github.com/anjiqbal/todo-backend
+
+## Day 4 of 100 Days Of Code - Round 2
+
+## Week 14 - School of Code Bootcamp
+
+_Monday 12th June_
+
+### Today's progress:
+
+- Started coding our app - split off into teams
+- I created the dummy data for the front-end
+- Finished planning api endpoints for PokeDeck and split out backend into a separate repo
+
+### Thoughts:
+
+We began the morning with a retro on the last two weeks. We answered the questions: What have you achieved? What have you learnt? What can we improve? What can we do differently? The retro was useful as it helped us see how far we had come and also how much had been decided without any conflict. We realised that we needed to improve our focus a bit more in the sense that some times we get chatting for a bit too long. We do also see the positive side of this as it works as little breaks and team bonding. 
+
+We split off into pairs with each team working on one core area of the app - the search, the input form and the story pages. Jay and I finished the search quite quickly and then split off into the other teams to make trios. After lunch, the others carried on with code while I set up the dummy data in a json file. I had a lot of trouble trying to push - the connection would end before the push completed. I think this was to do with me originally trying to upload some videos as part of the commit. The problem persisted despite me deleting them and adding them as links hosted on our google drive. I found the only way I could resolve this despite trying numerous things was to add the json file vial GitHub and then delete my local repo and clone it down again. The energy was a bit low by the end of the day - the heat definitely does not help as well as the fact that we haven't coded like this for a while. We were pleased with what we managed today and made a plan for tomorrow. For me that includes figuring out how to use an autocomplete for the search when a user types in a location.
+
+I also worked on PokeDeck a little this morning. I finished up the api endpoint tables so that it will be easier to code them. I also split out the backend from the frontend to make it easier to work on and host. The work I did over the weekend definitely helped. 
+
+### Links to work / resources:
+
+
+
