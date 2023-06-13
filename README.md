@@ -1929,4 +1929,24 @@ I also worked on PokeDeck a little this morning. I finished up the api endpoint 
 ### Links to work / resources:
 
 
+## Day 5 of 100 Days Of Code - Round 2
 
+## Week 14 - School of Code Bootcamp
+
+_Tuesday 13th June_
+
+### Today's progress:
+
+- We set up navigation for our web app using React Router
+- We got dummy data working and can use it to display information
+- Worked on backend of PokeDeck in the morning before SoC with Sam
+
+### Thoughts:
+
+I went and did the standup of standups today with Dionne. It was really interesting to hear how other teams are getting on. Also realised that we hadn't planned our backend so that's something we need to get onto. We also set up our navigation and pages using React Router. We did this as a team and took turns to make sure everyone understood how it worked. Later we split off into our smaller teams again. This time I worked with Qasim and Abdi on the StoryCollection component. We set it up so that the dummy data renders on the page. Before we could do that, we spent a good while doing a rebase on our branch. It worked really well and it was good practice. 
+
+In the morning, Sam and I worked on the backend of PokeDeck. I set up the tables on Railway and Sam coded the models. The setup work I did helped as I had put all the sample code in the files. This made things a lot easier to code. 
+
+### Links to work / resources:
+
+https://github.com/anjiqbal/PokeDeck-backend
