@@ -1950,3 +1950,25 @@ In the morning, Sam and I worked on the backend of PokeDeck. I set up the tables
 ### Links to work / resources:
 
 https://github.com/anjiqbal/PokeDeck-backend
+
+
+## Day 5 of 100 Days Of Code - Round 2
+
+## Week 14 - School of Code Bootcamp
+
+_Tuesday 13th June_
+
+### Today's progress:
+
+- Fixed a lot of errors that were breaking our Netlify build
+- Worked as a group to merge all our code so far to main
+- Continued working on the app - homepage
+
+### Thoughts:
+
+Before SoC started today, I wanted to check our live site to see if it was still working. I found that it wasn't and that the error was to to do with the build command failing to run. I did a lot of googling and error searching and realised it must be to do with the fact that our code is nested inside another folder on the repo. I changed the base directory so that it was pointing at this folder and then tried again and it worked. It wasn't the last of our Netlify errors as we spent the day merging our code to main and breaking the deploy. A significant error was to do with the esbuild module but we were eventually able to solve this by clearing cache and reinstalling everything.
+
+We continued working on the home page and the functionality of the story and upload components. 
+
+### Links to work / resources:
+
