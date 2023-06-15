@@ -1952,11 +1952,11 @@ In the morning, Sam and I worked on the backend of PokeDeck. I set up the tables
 https://github.com/anjiqbal/PokeDeck-backend
 
 
-## Day 5 of 100 Days Of Code - Round 2
+## Day 6 of 100 Days Of Code - Round 2
 
 ## Week 14 - School of Code Bootcamp
 
-_Tuesday 13th June_
+_Wednesday 14th June_
 
 ### Today's progress:
 
@@ -1972,3 +1972,27 @@ We continued working on the home page and the functionality of the story and upl
 
 ### Links to work / resources:
 
+
+## Day 7 of 100 Days Of Code - Round 2
+
+## Week 14 - School of Code Bootcamp
+
+_Thursday 15th June_
+
+### Today's progress:
+
+- Attended TechMids conference and listened to talks and discussions
+- Networked with people and organisations at the conference
+- Did some work in the evening to help the team
+
+### Thoughts:
+
+Today was the first day of the TechMids conference in Birmingham. I didn't attend SoC today but instead went to the conference with the blessing of the team. I had discussed it with them during the first week of the project so everyone was aware. Qasim and Akiel from the team also came. It was really great to see them in person as well as Sam and Tahmina. We had a really great day, with talks in the morning and a choice of talks and open spaces after lunch. The talks I listened to: Looking back at a lifetime of poor technical choices - Leon Adato, fake-it, don't make it. How serverless can level up your front-end game and unlock your full-stack potential - Salma Alam-Naylor, breaking out of silos - Omar Qureshi, monitoring digital experience to determine feature effectiveness - Carly Richmond, A brief history of data storage - Eli Holderness. I also went to some open space discussions on disability in the workplace and supporting early careers in tech. 
+
+It was really great to meet some new people as well as people that I've met at previous meet-ups. I spoke to a few people from SoC including Chris Meah who told us that choosing to be at the conference was a good choice as there is always time to catch up with the project.   
+
+In the evening, I worked on the slides and the script for the sprint demo so that it would be easier for the team the next day.
+
+### Links to work / resources:
+
+https://conf.techmids.io/
