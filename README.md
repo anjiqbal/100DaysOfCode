@@ -1996,3 +1996,31 @@ In the evening, I worked on the slides and the script for the sprint demo so tha
 ### Links to work / resources:
 
 https://conf.techmids.io/
+
+
+## Day 8 of 100 Days Of Code - Round 2
+
+## Week 14 - School of Code Bootcamp
+
+_Friday 15th June_
+
+### Today's progress:
+
+- Attended second day of TechMids conference and listened to talks and discussions
+- Networked with people and organisations at the conference
+- Had deeper discussions with Stuart Langridge and Ryan Lee
+
+### Thoughts:
+
+Today was the second day of the TechMids conference. It was just me and Sam from SoC today as the others couldn't travel down or the team didn't weren't too happy with them missing another day. 
+Today's talks: Historical Context: Infrastructure as Code - Kat Cosgorve, Privacy Could Be The Next Big Thing - Stuart Langridge, The Unconventional Engineer - Zakariya Mohummed. Today's open spaces: When is the right time to move on from your job, What don't they teach you at uni and favourite new tech thing.
+
+I also spent some time talking to Stuart about his talk on privacy. I was really blown away by the randomised response method(where for example 10% of respondents can lie and the integrity of the data remains the same as if everyone told the truth). We talked more about how developers can make a difference in a user experience with regard to data collection. He mentioned how pushing back slightly or asking the question why do you need that can be the beginnings of making a change. 
+
+I also talked to Ryan and Tom (Bluetel) for longer during lunch about infrastructure as code. I'm not sure I could explain what I learnt just yet but that whole area of development is beginning to make a lot more sense. 
+
+The open space on 'favourite new tech things' was really fun and relaxed. Lots of new tech things that I had never heard of but something that Stuart mentioned, that he had actually mentioned the time he came and did a talk was the new CSS updates. This is something I definitely want to have a look at when I get a chance.
+
+### Links to work / resources:
+
+https://conf.techmids.io/
