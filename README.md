@@ -2024,3 +2024,22 @@ The open space on 'favourite new tech things' was really fun and relaxed. Lots o
 ### Links to work / resources:
 
 https://conf.techmids.io/
+
+
+## Day 9 of 100 Days Of Code - Round 2
+
+
+_Saturday 16th June_
+
+### Today's progress:
+
+- Worked on group project
+- fixed layout overlap issues on main page
+- fixed nav bar
+
+### Thoughts:
+
+Brain woke me up early with an idea on how to fix the layout overlap issues the team was having with the home page - setting up a grid. As I couldn't go back to sleep I decided it made sense to just go ahead and fix it. I also worked on the nav bar. I added the logo and made sure the logo and brand was on the left and the navigation links on the right. It was a little tricky getting things to line up and understanding how Bootstrap classes work. I found that when the screen was smaller and the hamburger menu appeared it didn't work when clicked on. I added a script to the index.html and it worked fine after that.
+
+### Links to work / resources:
+
