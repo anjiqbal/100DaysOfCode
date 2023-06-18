@@ -2043,3 +2043,23 @@ Brain woke me up early with an idea on how to fix the layout overlap issues the 
 
 ### Links to work / resources:
 
+## Day 9 of 100 Days Of Code - Round 2
+
+
+_Sunday 16th June_
+
+### Today's progress:
+
+- Fixed nav bar issues on PokeDeck
+- fixed page shift issues on home page of PokeDeck
+- Worked some more on group project
+
+### Thoughts:
+
+I spent the morning working on Pokedeck's front-end. We're really hoping to get this project done as soon as possible so that we can add it to our CV's and portfolios. I had previously tried using Chakra but it didn't go well and as I had just yesterday implemented a working and responsive nav bar in our group project in Bootstrap, I decided I would just do the same thing here. I had to make some changes to the appearance but it is working much better now.
+
+The next thing to fix was the annoying page shift that happened when a random card loaded on the home page. I found some complicated solutions but they seemed too over-engineered for what I was doing. I had already added a placeholder element but there was still some page shift. Reading the more complicated solutions helped me to understand what I was doing wrong with the code I had. It helped me see that the height and width for the placeholder were smaller than the image. Once I corrected that I had a much better stable site.
+
+I also did some more work on the group project looking at updating the way we have set up the routing. I'll go back to the team with what I found but I may suggest we leave things as they are as they currently work and it may take some time to make the changes.
+
+### Links to work / resources:
